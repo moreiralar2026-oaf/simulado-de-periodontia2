@@ -1,0 +1,1123 @@
+QUESTAO:
+De acordo com a "Apostila de Periodontia", o periodonto é dividido em duas grandes unidades funcionais. Qual das alternativas apresenta corretamente os componentes do Periodonto de Proteção?
+A) Cemento radicular, Ligamento periodontal e Gengiva inserida.
+B) Gengiva livre, Gengiva interdental e Osso alveolar.
+C) Gengiva livre, Gengiva inserida e Gengiva interdental.
+D) Ligamento periodontal, Osso alveolar e Gengiva interdental.
+E) Cemento radicular, Gengiva livre e Gengiva interdental.
+GABARITO: C
+COMENTARIO: O texto claramente divide o periodonto em "Periodonto de Proteção" e "Periodonto de Sustentação". Na seção 1.1, sob "Periodonto de Proteção", são listados: Gengiva livre (marginal), Gengiva inserida (ceratinizada) e Gengiva interdental (papila). As outras alternativas incluem componentes do Periodonto de Sustentação (cemento radicular, ligamento periodontal, osso alveolar) ou misturam os componentes de forma incorreta. É crucial para o diagnóstico e tratamento periodontal conhecer a distinção entre esses dois grupos de tecidos e seus respectivos componentes.
+---
+QUESTAO:
+Um paciente apresenta sangramento à sondagem em 15% dos sítios, edema e eritema gengival, mas sem evidência de perda de inserção clínica (NIC) ou perda óssea radiográfica. De acordo com a sequência lógica de progressão da doença periodontal apresentada no texto, qual o diagnóstico mais provável?
+A) Saúde Periodontal
+B) Gengivite Induzida por Biofilme
+C) Periodontite Estágio I
+D) Doença Necrosante
+E) Periodontite Estágio II
+GABARITO: B
+COMENTARIO: A seção "2.1 Sequência Lógica de Progressão" descreve a "Gengivite Induzida por Biofilme" como uma condição com inflamação restrita à gengiva marginal, presença de sangramento à sondagem (≥ 10% dos sítios), edema e eritema, e, crucialmente, "Ausência de perda de inserção (NIC) ou perda óssea radiográfica". A "Saúde Periodontal" teria sangramento em < 10% dos sítios. As "Periodontites" sempre envolvem perda de inserção e perda óssea. "Doenças Necrosantes" apresentam características mais graves como necrose de papilas e dor intensa. A ausência de NIC e perda óssea é o diferencial chave para a gengivite.
+---
+QUESTAO:
+A nova classificação de 2018 para periodontite organiza a doença em dois eixos independentes e complementares. Qual a função principal do "Estágio" dentro dessa classificação?
+A) Descrever a velocidade de progressão da doença.
+B) Relacionar a doença com fatores de risco como tabagismo e diabetes.
+C) Determinar a gravidade da destruição já ocorrida e a complexidade do tratamento.
+D) Indicar a presença de sangramento à sondagem e a profundidade de bolsa.
+E) Avaliar a reversibilidade da condição com a remoção do biofilme.
+GABARITO: C
+COMENTARIO: A seção "3.1 A Lógica da Classificação" afirma que o "ESTÁGIO (I, II, III, IV)" descreve "a gravidade (quanto de destruição já ocorreu) e a complexidade do tratamento necessário". As alternativas A e B descrevem a função do "Grau". As alternativas D e E referem-se a critérios diagnósticos gerais ou à reversibilidade da gengivite, não à função específica do estágio na classificação da periodontite. Entender a distinção entre Estágio e Grau é fundamental para aplicar corretamente a nova classificação.
+---
+QUESTAO:
+Um paciente com periodontite apresenta perda de inserção clínica (NIC) de 5 mm, perda óssea radiográfica além do 1/3 médio da raiz, profundidade de sondagem (PS) de 7 mm, e envolvimento de furca Classe II em múltiplos dentes. Além disso, o paciente demonstra disfunção mastigatória significativa devido à mobilidade e migração dos dentes. De acordo com a tabela de sinais clínicos por estágio, qual o Estágio correto para este paciente?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Não é possível determinar sem o Grau.
+GABARITO: D
+COMENTARIO: O "Macete" na seção "3.3 Tabela de Sinais Clínicos por Estágio" afirma: "Se o paciente tem DISFUNÇÃO mastigatória (colapso de mordida, migrações, comprometimento estético grave) → SEMPRE Estágio IV, independente do NIC." Embora os outros critérios (NIC ≥ 5mm, PS ≥ 6mm, envolvimento de furca) também apontem para estágios avançados (III ou IV), a presença de disfunção mastigatória é o fator determinante e obrigatório para o diagnóstico de Estágio IV, conforme o texto.
+---
+QUESTAO:
+Durante o periograma completo, qual a pressão de sondagem recomendada para a coleta de dados, conforme o texto?
+A) 0,5 N (≈ 50 g)
+B) 0,25 N (≈ 25 g)
+C) 1,0 N (≈ 100 g)
+D) 0,1 N (≈ 10 g)
+E) A pressão varia de acordo com a inflamação do tecido.
+GABARITO: B
+COMENTARIO: Na seção "4. Fluxo do Exame Clínico (Diagnóstico Passo a Passo)", item 4 (Periograma Completo), o texto especifica: "Pressão de sondagem recomendada: 0,25 N (≈ 25 g)". Esta é uma informação padronizada e crucial para a reprodutibilidade e acurácia das medições de profundidade de sondagem e nível de inserção clínica, evitando falsos positivos ou negativos devido a pressão excessiva ou insuficiente.
+---
+QUESTAO:
+Qual das seguintes sondas periodontais é especificamente indicada para a avaliação de envolvimento de furca?
+A) Sonda Carolina do Norte (UNC 15)
+B) Sonda OMS (WHO / CPITN)
+C) Sonda Nabers
+D) Sonda Williams
+E) Sonda Goldman-Fox
+GABARITO: C
+COMENTARIO: A seção "5.1 Sondas Periodontais: Quando Usar Cada Uma?" lista a "Sonda Nabers" com a indicação principal: "Avaliação de furca (Classes I, II, III)". As sondas Carolina do Norte e OMS são para medição de PS/NIC e triagem epidemiológica, respectivamente. Sondas Williams e Goldman-Fox não são mencionadas no texto, mas a Nabers é inequivocamente a sonda para furca.
+---
+QUESTAO:
+De acordo com o "Mapa de Uso" das curetas Gracey, qual par de curetas é o correto para raspar as faces MESIAIS de dentes posteriores?
+A) Gracey 5/6
+B) Gracey 7/8
+C) Gracey 11/12
+D) Gracey 13/14
+E) Gracey 1/2
+GABARITO: C
+COMENTARIO: Na seção "5.2 Curetas Gracey: Mapa de Uso", a tabela indica claramente para o par "11/12": "Região: Posteriores", "Faces: MESIAIS", e o macete "11/12 → Mesial" (M de 11 = Mesial). O texto também inclui um "ERRO CLÁSSICO" alertando para não usar 11/12 em faces distais. As outras curetas são para regiões diferentes ou para faces vestibulares/linguais/palatinas ou distais.
+---
+QUESTAO:
+Durante a técnica de Raspagem e Alisamento Radicular (RAR) com curetas Gracey, qual o ângulo ideal da lâmina em relação à superfície radicular para uma raspagem eficaz e sem trauma tecidual?
+A) 0° (fechado)
+B) Entre 15° e 30°
+C) Entre 45° e 60°
+D) Entre 70° e 80°
+E) 90° (perpendicular)
+GABARITO: D
+COMENTARIO: Na seção "5.3 Técnica de Raspagem e Alisamento Radicular (RAR)", item 2 ("Posicionamento"), o texto instrui: "Ao atingir o fundo da bolsa, angule a lâmina entre 70° e 80° em relação à superfície radicular. Abaixo de 45° = raspagem ineficaz; acima de 90° = trauma tecidual." É uma informação técnica precisa e fundamental para a execução correta da RAR.
+---
+QUESTAO:
+Segundo o texto, qual é a "regra de ouro" que o cirurgião-dentista deve seguir para não atribuir erroneamente o diagnóstico de periodontite?
+A) Realizar sempre um exame radiográfico panorâmico.
+B) Confirmar a presença de sangramento à sondagem em mais de 30% dos sítios.
+C) Não confundir profundidade de sondagem aumentada com perda de inserção clínica.
+D) Nunca atribuir o diagnóstico sem confirmar PERDA DE INSERÇÃO CLÍNICA (NIC) com suporte radiográfico.
+E) Avaliar a presença de disfunção mastigatória antes de qualquer diagnóstico.
+GABARITO: D
+COMENTARIO: Na seção "4. Fluxo do Exame Clínico", após o item 6, há uma "Regra de ouro:" que afirma: "NUNCA atribua o diagnóstico de periodontite sem confirmar PERDA DE INSERÇÃO CLÍNICA (NIC) com suporte radiográfico. A sondagem isolada pode ser enganosa." Esta regra é vital para diferenciar periodontite de gengivite e evitar diagnósticos equivocados. A alternativa C é um "ERRO FREQUENTE" mencionado no texto, mas a "regra de ouro" é mais abrangente e definitiva.
+---
+QUESTAO:
+Conforme a seção "Comunicação com o Paciente", ao explicar a importância da manutenção periodontal, qual analogia é utilizada pelo texto para ilustrar que o tratamento clínico é como "arrumar o telhado da casa"?
+A) O biofilme como um filme esbranquiçado nos dentes.
+B) A gengiva sangrando como uma mão que sangra ao lavar.
+C) Os dentes presos no osso como postes fincados no chão.
+D) A manutenção como continuar limpando as calhas e cuidando do jardim.
+E) A doença como uma ferida que nunca cicatriza.
+GABARITO: D
+COMENTARIO: Na seção "6. Comunicação com o Paciente", no subtítulo "Explicando a importância da manutenção", o texto diz: "O tratamento que fazemos aqui na clínica é como arrumar o telhado da casa. Mas se você não continuar limpando as calhas e cuidando do jardim, os problemas podem voltar." A analogia completa conecta o "arrumar o telhado" (tratamento clínico) com a "limpeza das calhas e cuidado do jardim" (manutenção em casa e visitas regulares), que é a alternativa D. As outras alternativas são analogias utilizadas para explicar outros conceitos.
+---
+QUESTAO:
+Um paciente apresenta gengiva com coloração rosa-coral, consistência firme e contorno festonado. Durante a sondagem, o sulco gengival mede 2 mm e o sangramento à sondagem ocorre em menos de 10% dos sítios. Não há evidências de perda de inserção clínica (NIC) ou perda óssea radiográfica. Com base nesses achados, qual é o diagnóstico mais adequado?
+A) Gengivite induzida por biofilme
+B) Periodontite Estágio I
+C) Saúde Periodontal
+D) Doença Periodontal Necrosante
+E) Periodontite Estágio II
+GABARITO: C
+COMENTARIO: A descrição dos achados clínicos (gengiva rosa-coral, firme, contorno festonado, sulco gengival ≤ 3 mm, sangramento à sondagem em < 10% dos sítios, ausência de perda de inserção e perda óssea) corresponde exatamente à definição de "Saúde Periodontal" apresentada na seção 2.1 do texto.
+A) Gengivite induzida por biofilme envolve a presença de sangramento à sondagem em ≥ 10% dos sítios, edema e eritema, o que não se encaixa perfeitamente na descrição do paciente.
+B) Periodontite Estágio I e E) Periodontite Estágio II implicam em perda de inserção clínica e perda óssea radiográfica, que estão ausentes neste caso.
+D) Doença Periodontal Necrosante apresenta necrose de papilas, dor intensa e sangramento espontâneo, sintomas que não foram mencionados.
+**Dica para a prova:** Memorize os critérios chave para diferenciar saúde, gengivite e periodontite, especialmente a presença ou ausência de perda de inserção clínica e perda óssea. O sangramento à sondagem é um indicador importante de inflamação, mas sua extensão (percentual de sítios) ajuda a diferenciar saúde de gengivite.
+---
+QUESTAO:
+Em relação às divisões funcionais do periodonto, qual das alternativas abaixo apresenta corretamente os componentes do Periodonto de Proteção?
+A) Cemento radicular, ligamento periodontal, osso alveolar.
+B) Gengiva livre, gengiva inserida, gengiva interdental.
+C) Gengiva ceratinizada, ligamento periodontal, osso alveolar.
+D) Gengiva marginal, cemento radicular, gengiva interdental.
+E) Ligamento periodontal, gengiva inserida, osso alveolar.
+GABARITO: B
+COMENTARIO: De acordo com a seção 1.1 "Divisões Funcionais" do texto, o Periodonto de Proteção é composto pela Gengiva livre (marginal), Gengiva inserida (ceratinizada) e Gengiva interdental (papila).
+A) e C) descrevem componentes do Periodonto de Sustentação (cemento, ligamento periodontal, osso alveolar), misturando-os ou não.
+D) mistura componentes de proteção (gengiva marginal, gengiva interdental) com um de sustentação (cemento radicular).
+E) mistura componentes de proteção (gengiva inserida) com os de sustentação (ligamento periodontal, osso alveolar).
+**Dica para a prova:** O Periodonto de Proteção atua como uma barreira física e imunológica, sendo a parte visível da gengiva. O Periodonto de Sustentação é responsável pela ancoragem do dente e absorção de forças mastigatórias, sendo os tecidos mais internos.
+---
+QUESTAO:
+Um estudante de odontologia está realizando um exame periodontal e observa que um paciente apresenta perda de inserção clínica (NIC) de 4 mm, profundidade de sondagem (PS) de 5 mm e perda óssea radiográfica que atinge o terço coronário do dente. Não há perda dentária e o envolvimento de furca é de Classe I. Considerando a Classificação 2018 da Periodontite, qual Estágio corresponde a essa descrição?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Não é possível determinar o estágio com os dados fornecidos.
+GABARITO: B
+COMENTARIO: Conforme a tabela "Tabela de Sinais Clínicos por Estágio" na seção 3.3 do texto:
+- NIC de 4 mm se encaixa no Estágio II (NIC 3–4 mm).
+- PS de 5 mm se encaixa no Estágio II (PS ≤ 5 mm).
+- Perda óssea no terço coronário (< 15% para Estágio I, 15-30% para Estágio II) é consistente com Estágio II.
+- Ausência de perda dentária e envolvimento de furca Classe I também são compatíveis com Estágio II.
+A) Estágio I teria NIC de 1-2 mm e PS ≤ 4 mm.
+C) Estágio III teria NIC ≥ 5 mm e PS ≥ 6 mm.
+D) Estágio IV teria NIC ≥ 5 mm, PS ≥ 6 mm e, obrigatoriamente, disfunção mastigatória, além de perda de mais dentes.
+**Dica para a prova:** A memorização dos critérios de NIC, PS e perda óssea para cada estágio é fundamental. Lembre-se que a "perda óssea" no texto se refere à porcentagem do comprimento radicular.
+---
+QUESTAO:
+Qual das seguintes sondas periodontais é especificamente indicada para a avaliação de envolvimento de furca?
+A) Sonda Carolina do Norte (UNC 15)
+B) Sonda OMS (WHO / CPITN)
+C) Sonda Nabers
+D) Sonda Williams
+E) Sonda periodontal padrão milimetrada
+GABARITO: C
+COMENTARIO: A seção 5.1 "Sondas Periodontais: Quando Usar Cada Una?" do texto afirma claramente que a Sonda Nabers é "Curva, sem marcações agudas" e sua "Indicação Principal" é "Avaliação de furca (Classes I, II, III)".
+A) A Sonda Carolina do Norte (UNC 15) é utilizada para medição de PS e NIC (padrão clínico).
+B) A Sonda OMS (WHO / CPITN) é para triagem epidemiológica (CPITN).
+D) Sonda Williams não foi mencionada no texto, embora exista.
+E) Sonda periodontal padrão milimetrada é um termo genérico, mas o texto especifica a Nabers para furca.
+**Dica para a prova:** As sondas têm formatos e marcações específicas para suas funções. A sonda Nabers, com sua curvatura, é projetada para acessar as áreas de furca.
+---
+QUESTAO:
+A nova Classificação da Doença Periodontal de 2018 abandona os termos "crônica" e "agressiva" e organiza a periodontite em dois eixos independentes. Quais são esses eixos?
+A) Extensão e Severidade
+B) Estágio e Progressão
+C) Estágio e Grau
+D) Tipo e Gravidade
+E) Localização e Fatores de Risco
+GABARITO: C
+COMENTARIO: A seção 3.1 "A Lógica da Classificação" do texto afirma: "A nova classificação (Tonetti, Greenwell & Kornman, 2018) abandona os termos 'crônica' e 'agressiva' e organiza a periodontite em dois eixos independentes e complementares: ESTÁGIO (I, II, III, IV) e GRAU (A, B, C)".
+A) Extensão e Severidade são conceitos que fazem parte do Estágio, mas não são os eixos principais da classificação.
+B) Progressão é o que o Grau descreve, mas não é um dos eixos principais junto com "Estágio".
+D) Tipo e Gravidade são termos mais genéricos e não representam a nomenclatura específica da Classificação 2018.
+E) Localização e Fatores de Risco são considerações importantes, mas não são os dois eixos primários da classificação.
+**Dica para a prova:** Entender a essência do Estágio (gravidade e complexidade do tratamento) e do Grau (velocidade de progressão e fatores de risco modificadores) é crucial para aplicar corretamente a Classificação 2018.
+---
+QUESTAO:
+Durante a Raspagem e Alisamento Radicular (RAR) com curetas Gracey, qual o ângulo ideal da lâmina em relação à superfície radicular para uma raspagem eficaz e segura?
+A) 0° (fechado)
+B) Entre 20° e 30°
+C) Entre 45° e 55°
+D) Entre 70° e 80°
+E) Acima de 90°
+GABARITO: D
+COMENTARIO: A seção 5.3 "Técnica de Raspagem e Alisamento Radicular (RAR)", item 2 "Posicionamento", informa: "Ao atingir o fundo da bolsa, angule a lâmina entre 70° e 80° em relação à superfície radicular. Abaixo de 45° = raspagem ineficaz; acima de 90° = trauma tecidual."
+A) 0° é o ângulo de adaptação ou inserção.
+B) e C) Ângulos abaixo de 45° resultam em raspagem ineficaz.
+E) Ângulos acima de 90° podem causar trauma tecidual.
+**Dica para a prova:** O ângulo de trabalho da cureta Gracey é fundamental para a eficácia da remoção do cálculo e para evitar danos à superfície radicular. Lembre-se da regra "70-80" para o ângulo de trabalho e "0" para inserção.
+---
+QUESTAO:
+Um paciente apresenta sangramento à sondagem em 15% dos sítios, edema gengival, mas sem evidência de perda de inserção clínica (NIC) ou perda óssea radiográfica. A profundidade de sondagem em todos os sítios é de 3 mm. Qual o diagnóstico diferencial correto e a característica principal que o diferencia da periodontite?
+A) Periodontite, diferenciada pela presença de sangramento.
+B) Saúde Periodontal, diferenciada pela ausência de inflamação.
+C) Gengivite, diferenciada pela ausência de perda de inserção e perda óssea.
+D) Doença Periodontal Necrosante, diferenciada pela ausência de necrose.
+E) Periodontite, diferenciada pela profundidade de sondagem.
+GABARITO: C
+COMENTARIO: A seção 2.2 "Diferencial Crítico: Gengivite × Periodontite" e a "Regra de ouro" na seção 4 enfatizam que a ausência de perda de inserção (NIC) e perda óssea radiográfica é o critério mais importante para diferenciar gengivite de periodontite. O paciente descrito tem sangramento e edema (inflamação), mas sem perda de inserção ou óssea, o que caracteriza Gengivite.
+A) A periodontite tem sangramento, mas a ausência de NIC e perda óssea é o que diferencia, não a presença de sangramento.
+B) Não é saúde periodontal devido ao sangramento em 15% dos sítios e edema.
+D) Não há sintomas de doença necrozante.
+E) A profundidade de sondagem sozinha pode ser enganosa; a perda de inserção é o diferencial crítico.
+**Dica para a prova:** O "ERRO FREQUENTE" e a "Regra de ouro" do texto são alertas cruciais: NUNCA diagnostique periodontite sem perda de inserção e perda óssea. A profundidade de sondagem aumentada sem NIC é apenas um sulco ou bolsa gengival, não uma bolsa periodontal com perda de inserção.
+---
+QUESTAO:
+Qual dos seguintes instrumentos é mais adequado para a remoção de cálculo supragengival volumoso em todas as faces dos dentes, especialmente antes da raspagem subgengival com curetas Gracey?
+A) Cureta Gracey 13/14
+B) Sonda Nabers
+C) Cureta Gracey 11/12
+D) Foice McCall 11/12
+E) Cureta Universal McCall 13/14
+GABARITO: E
+COMENTARIO: A seção 5.4 "Outros Instrumentos Importantes" menciona: "McCall 13/14 e 17/18: Cureta universal: atua em todas as faces, principalmente supra-gengival. Ideal para remoção de cálculo supragengival volumoso antes da RAR."
+A) e C) As curetas Gracey são área-específicas e são primariamente para raspagem subgengival.
+B) Sonda Nabers é para avaliação de furca.
+D) A Foice McCall 11/12 é indicada para espaços interproximais de posteriores, não para cálculo supragengival volumoso em todas as faces.
+**Dica para a prova:** As curetas universais (como McCall) são mais versáteis para cálculo supragengival, enquanto as Gracey são mais específicas e delicadas para o ambiente subgengival.
+---
+QUESTAO:
+Um paciente tabagista (15 cigarros/dia) com diabetes descompensado (HbA1c > 7%) apresenta perda óssea radiográfica de 2 mm/ano nos últimos 5 anos. Na Classificação 2018, qual Grau de periodontite seria atribuído a este paciente?
+A) Grau A
+B) Grau B
+C) Grau C
+D) Grau D
+E) Não é possível determinar o grau apenas com esses dados.
+GABARITO: C
+COMENTARIO: A seção 3.2 "Analogias para Memorizar", item "Grau = 'O Velocímetro da Doença'", descreve o Grau C como: "Progressão rápida. Tabagismo ≥ 10 cig/dia, DM descompensado, perda óssea > 2 mm/ano." O paciente descrito se encaixa perfeitamente nesses critérios.
+A) Grau A é para progressão lenta, sem fatores de risco.
+B) Grau B é para progressão moderada, com tabagismo < 10 cig/dia ou HbA1c < 7%.
+D) Não existe Grau D na Classificação 2018.
+E) Os dados fornecidos são suficientes e claros para a determinação do Grau.
+**Dica para a prova:** Os fatores de risco como tabagismo e diabetes, juntamente com a taxa de perda óssea, são determinantes para a classificação do Grau. Lembre-se dos valores de corte (10 cig/dia e HbA1c < 7%) para diferenciar os graus B e C.
+---
+QUESTAO:
+Qual dos seguintes marcos anatômicos é utilizado como ponto de referência crucial para medir o Nível de Inserção Clínica (NIC)?
+A) Crista Alveolar
+B) Fundo da Bolsa
+C) Junção Esmalte-Cemento (JEC)
+D) Furca
+E) Margem Gengival
+GABARITO: C
+COMENTARIO: A seção 1.2 "Marcos Anatômicos Cruciais para o Diagnóstico" lista a "JEC - Junção Esmalte-Cemento" e sua "Importância Clínica" como "Ponto de referência para medir o NIC". A "Dica de prova" também reforça que NIC = PS + Recessão Gengival (quando há recessão) ou NIC = PS − Hiperplasia Gengival (quando a gengiva migra coronalmente), sempre considerando a JEC como o ponto fixo de referência.
+A) A Crista Alveolar é importante para avaliar a perda óssea radiográfica, mas não é o ponto de referência para o NIC.
+B) O Fundo da Bolsa é o limite apical da medida de PS, mas o NIC é medido da JEC ao fundo da bolsa.
+D) A Furca é a bifurcação/trifurcação das raízes.
+E) A Margem Gengival é o ponto de partida para a medição da Profundidade de Sondagem (PS) e da Recessão Gengival, mas não é o ponto fixo para o NIC.
+**Dica para a prova:** A JEC é o ponto fixo e estável para a medição do NIC, pois não se altera com a inflamação ou recessão gengival, ao contrário da margem gengival.
+---
+QUESTAO:
+Um paciente apresenta sangramento à sondagem em 15% dos sítios, edema e eritema gengival, mas sem evidências de perda de inserção clínica (NIC) ou perda óssea radiográfica. A profundidade de sondagem (PS) em todos os sítios é menor ou igual a 3 mm. De acordo com a seção "Saúde Periodontal e Níveis de Doença" e o "Diferencial Crítico: Gengivite × Periodontite" do texto, qual o diagnóstico mais apropriado para este caso?
+A) Periodontite Estágio I
+B) Saúde Periodontal
+C) Doença Necrosante
+D) Gengivite Induzida por Biofilme
+E) Periodontite Estágio III
+GABARITO: D
+COMENTARIO:
+A questão descreve um quadro clássico de Gengivite Induzida por Biofilme. O texto afirma que a gengivite é caracterizada por inflamação restrita à gengiva marginal, presença de sangramento à sondagem (≥ 10% dos sítios), edema e eritema, e, crucialmente, ausência de perda de inserção (NIC) ou perda óssea radiográfica. A profundidade de sondagem ≤ 3 mm também é compatível com gengivite (sulco gengival).
+
+As outras alternativas estão incorretas porque:
+- A) Periodontite Estágio I, C) Doença Necrosante e E) Periodontite Estágio III envolvem perda de inserção clínica e/ou perda óssea radiográfica, o que não foi observado no caso.
+- B) Saúde Periodontal é descartada pela presença de sangramento à sondagem em 15% dos sítios, edema e eritema. O texto define saúde periodontal com sangramento à sondagem em < 10% dos sítios.
+
+Dica relevante: O "ERRO FREQUENTE" destacado no texto para concursos é justamente confundir profundidade de sondagem aumentada com perda de inserção. A ausência de perda de NIC e perda óssea radiográfica é o divisor de águas entre gengivite e periodontite.
+---
+QUESTAO:
+De acordo com a "Classificação 2018: Estágios e Graus" apresentada no texto, um paciente com perda de inserção clínica (NIC) de 5 mm, perda óssea radiográfica além do terço médio da raiz, profundidade de sondagem (PS) de 6 mm, e que apresenta disfunção mastigatória, seria classificado em qual estágio de periodontite?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Não é possível determinar o estágio sem informações sobre o grau.
+GABARITO: D
+COMENTARIO:
+O texto detalha os critérios para a classificação dos estágios da periodontite. O "Macete" na página 5 é explícito: "Se o paciente tem DISFUNÇÃO mastigatória (colapso de mordida, migrações, comprometimento estético grave) → SEMPRE Estágio IV, independente do NIC." Embora os outros critérios (NIC ≥ 5 mm, perda óssea além do 1/3 médio, PS ≥ 6 mm) sejam compatíveis com Estágio III e IV, a presença da disfunção mastigatória é o fator determinante para o Estágio IV.
+
+As outras alternativas estão incorretas porque:
+- A) Estágio I e B) Estágio II seriam para casos com menos destruição e sem disfunção mastigatória.
+- C) Estágio III apresenta NIC ≥ 5 mm e PS ≥ 6 mm, mas a disfunção mastigatória é o critério que eleva o caso para Estágio IV.
+- E) O estágio pode ser determinado com as informações fornecidas, especialmente o critério de disfunção mastigatória.
+
+Dica relevante: Memorizar os "macetes" e "erros frequentes" destacados no texto é crucial para responder questões de concurso. A disfunção mastigatória é um critério de "peso" que define o Estágio IV.
+---
+QUESTAO:
+Qual das seguintes afirmações sobre o periodonto de proteção, conforme descrito na seção "1.1 Divisões Funcionais" do texto, está CORRETA?
+A) Sua principal função é ancorar o dente ao osso e absorver forças mastigatórias.
+B) É composto por cemento radicular, ligamento periodontal e osso alveolar.
+C) Em pacientes saudáveis, apresenta cor rosa-coral, consistência firme e superfície com pontilhado ("casca de laranja").
+D) Contém fibras colágenas (Sharpey) que unem cemento a osso.
+E) É responsável pela renovação constante do ligamento periodontal através de fibroblastos.
+GABARITO: C
+COMENTARIO:
+O texto, na seção "1.1 Divisões Funcionais", descreve o periodonto de proteção como composto pela gengiva livre, inserida e interdental. Sua função é ser uma "barreira física e imunológica contra micro-organismos". Em pacientes saudáveis, suas características são "cor rosa-coral, consistência firme, superfície com pontilhado ('casca de laranja')".
+
+As outras alternativas estão incorretas porque:
+- A) e B) Descrevem a função e os componentes do Periodonto de Sustentação, não do periodonto de proteção.
+- D) e E) Referem-se a características do Ligamento Periodontal, que faz parte do Periodonto de Sustentação.
+
+Dica relevante: É fundamental diferenciar claramente as divisões funcionais do periodonto (proteção e sustentação), seus componentes e suas respectivas funções e características clínicas.
+---
+QUESTAO:
+Durante a instrumentação periodontal, o cirurgião-dentista precisa avaliar o envolvimento de furca em um molar. De acordo com a seção "5.1 Sondas Periodontais: Quando Usar Cada Uma?", qual sonda deve ser utilizada para esta finalidade?
+A) Sonda Carolina do Norte (UNC 15)
+B) Sonda OMS (WHO / CPITN)
+C) Sonda Nabers
+D) Sonda exploradora
+E) Sonda milimetrada comum
+GABARITO: C
+COMENTARIO:
+A seção "5.1 Sondas Periodontais: Quando Usar Cada Uma?" especifica claramente que a Sonda Nabers, "curva, sem marcações agudas", tem como indicação principal a "Avaliação de furca (Classes I, II, III)".
+
+As outras alternativas estão incorretas porque:
+- A) A Sonda Carolina do Norte (UNC 15) é indicada para medição de PS e NIC.
+- B) A Sonda OMS (WHO / CPITN) é para triagem epidemiológica.
+- D) e E) A sonda exploradora e a sonda milimetrada comum não são as ferramentas específicas e padronizadas para avaliação de furca, que requer um formato curvo para acessar a área.
+
+Dica relevante: Conhecer as indicações específicas de cada tipo de sonda periodontal é essencial para a prática clínica e para concursos. A sonda Nabers é a única desenhada para a furca.
+---
+QUESTAO:
+Um paciente apresenta sangramento à sondagem, mas sem perda de inserção clínica (NIC) confirmada radiograficamente. A profundidade de sondagem (PS) em alguns sítios é de 4 mm. Qual o diagnóstico, segundo o "ERRO FREQUENTE" e o "Diferencial Crítico" da seção "2.2 Diferencial Crítico: Gengivite × Periodontite"?
+A) Periodontite Estágio I
+B) Gengivite Induzida por Biofilme
+C) Periodontite Estágio II
+D) Saúde Periodontal
+E) Periodontite com bolsa falsa
+GABARITO: B
+COMENTARIO:
+O texto alerta para um "ERRO FREQUENTE": "Confundir profundidade de sondagem aumentada com perda de inserção. Sem perda de NIC confirmada radiograficamente, o diagnóstico é GENGIVITE, não periodontite." Embora a PS de 4 mm possa sugerir uma bolsa, a ausência de perda de NIC e perda óssea radiográfica é o critério definidor de gengivite. A gengivite pode apresentar PS aumentada devido ao edema gengival, criando uma "bolsa falsa" ou pseudobolsa.
+
+As outras alternativas estão incorretas porque:
+- A) e C) Periodontite (qualquer estágio) requer perda de inserção e/ou perda óssea.
+- D) Saúde Periodontal é descartada pela presença de sangramento à sondagem.
+- E) Embora o termo "bolsa falsa" possa descrever a situação de PS aumentada sem perda de inserção, o diagnóstico clínico abrangente, conforme o texto, é Gengivite Induzida por Biofilme.
+
+Dica relevante: A distinção entre pseudobolsa (presente na gengivite) e bolsa periodontal verdadeira (presente na periodontite) é feita pela presença ou ausência de perda de inserção clínica e perda óssea radiográfica.
+---
+QUESTAO:
+Qual das seguintes curetas Gracey é a mais indicada para raspagem e alisamento radicular das faces MESIAIS de dentes posteriores, de acordo com o "Mapa de Uso" da seção "5.2 Curetas Gracey"?
+A) Gracey 5/6
+B) Gracey 7/8
+C) Gracey 11/12
+D) Gracey 13/14
+E) McCall 13/14
+GABARITO: C
+COMENTARIO:
+A seção "5.2 Curetas Gracey: Mapa de Uso" fornece um macete claro: "11/12 → Mesial" (M de 11 = Mesial). A cureta Gracey 11/12 é especificamente projetada para faces MESIAIS de dentes posteriores.
+
+As outras alternativas estão incorretas porque:
+- A) Gracey 5/6 é para dentes anteriores e pré-molares (todas as faces).
+- B) Gracey 7/8 é para faces vestibulares e linguais/palatinas de dentes posteriores.
+- D) Gracey 13/14 é para faces DISTAIS de dentes posteriores, conforme alertado no "ERRO CLÁSSICO".
+- E) McCall 13/14 é uma cureta universal, não uma Gracey área-específica, e é mais indicada para supra-gengival.
+
+Dica relevante: O conhecimento das curetas Gracey e suas áreas de atuação é fundamental. O macete "M de 11 = Mesial" e "D de 14 = Distal" para posteriores é muito útil.
+---
+QUESTAO:
+No contexto da "Classificação 2018: Estágios e Graus", o que o "Grau" da periodontite descreve, conforme o texto?
+A) A gravidade da destruição já ocorrida e a complexidade do tratamento necessário.
+B) A extensão do estrago na estrutura dentária e o risco de desabamento.
+C) A velocidade de progressão da doença e os fatores de risco que podem modificar essa velocidade.
+D) O número de dentes perdidos devido à doença periodontal.
+E) A presença de disfunção mastigatória como critério principal.
+GABARITO: C
+COMENTARIO:
+A seção "3.1 A Lógica da Classificação" afirma que o "GRAU (A, B, C)" "Descreve a velocidade de progressão e os fatores de risco que podem modificar essa velocidade (tabagismo, diabetes)". A analogia "O Velocímetro da Doença" reforça essa ideia.
+
+As outras alternativas estão incorretas porque:
+- A) Descreve o "ESTÁGIO", não o grau.
+- B) É uma analogia para o "ESTÁGIO" ("A Extensão do Estrago").
+- D) O número de dentes perdidos é um critério para o ESTÁGIO (especificamente Estágio III e IV).
+- E) A disfunção mastigatória é um critério para o ESTÁGIO IV.
+
+Dica relevante: É crucial diferenciar os conceitos de "Estágio" e "Grau" na Nova Classificação (2018), pois eles avaliam aspectos distintos da doença periodontal.
+---
+QUESTAO:
+Durante a Raspagem e Alisamento Radicular (RAR) com curetas Gracey, qual o ângulo ideal da lâmina em relação à superfície radicular ao atingir o fundo da bolsa, conforme a seção "5.3 Técnica de Raspagem e Alisamento Radicular (RAR)"?
+A) 0° (fechado)
+B) Entre 15° e 30°
+C) Entre 45° e 60°
+D) Entre 70° e 80°
+E) Acima de 90°
+GABARITO: D
+COMENTARIO:
+A seção "5.3 Técnica de Raspagem e Alisamento Radicular (RAR)", no item "2. Posicionamento", especifica: "Ao atingir o fundo da bolsa, angule a lâmina entre 70° e 80° em relação à superfície radicular. Abaixo de 45° = raspagem ineficaz; acima de 90° = trauma tecidual."
+
+As outras alternativas estão incorretas porque:
+- A) 0° (fechado) é o ângulo para a Adaptação (inserção da cureta).
+- B) e C) Ângulos abaixo de 45° resultam em raspagem ineficaz.
+- E) Ângulos acima de 90° causam trauma tecidual.
+
+Dica relevante: O controle do ângulo de trabalho é um dos pilares da instrumentação periodontal eficaz e segura. Conhecer os ângulos corretos para inserção, trabalho e remoção é fundamental.
+---
+QUESTAO:
+Conforme a "Regra de ouro" do "Fluxo do Exame Clínico (Diagnóstico Passo a Passo)", qual condição é indispensável para atribuir o diagnóstico de periodontite?
+A) Profundidade de sondagem (PS) aumentada em todos os sítios.
+B) Presença de sangramento à sondagem (SS) em mais de 30% dos sítios.
+C) Confirmação de Perda de Inserção Clínica (NIC) com suporte radiográfico.
+D) Envolvimento de furca em molares.
+E) Presença de biofilme visível em mais de 10% dos sítios.
+GABARITO: C
+COMENTARIO:
+A "Regra de ouro" na seção "4. Fluxo do Exame Clínico" é enfática: "NUNCA atribua o diagnóstico de periodontite sem confirmar PERDA DE INSERÇÃO CLÍNICA (NIC) com suporte radiográfico. A sondagem isolada pode ser enganosa."
+
+As outras alternativas estão incorretas porque:
+- A) PS aumentada pode ocorrer na gengivite (pseudobolsa) sem periodontite.
+- B) SS é um critério para gengivite e periodontite, mas não é o definidor de periodontite sem NIC.
+- D) Envolvimento de furca é um sinal de periodontite avançada, mas a confirmação da perda de inserção é o primeiro passo para o diagnóstico.
+- E) Biofilme visível está presente tanto na saúde, gengivite quanto periodontite e é a causa da inflamação, mas não o critério de diagnóstico para periodontite.
+
+Dica relevante: A perda de inserção clínica (NIC) é o critério mais importante para diferenciar gengivite de periodontite. A confirmação radiográfica de perda óssea corrobora a NIC.
+---
+QUESTAO:
+Um paciente pergunta ao dentista por que sua gengiva sangra ao escovar. De acordo com as diretrizes de "Comunicação com o Paciente" da seção 6 do texto, qual a melhor explicação que o profissional pode oferecer?
+A) "O sangramento é normal, indica que você está escovando com força suficiente para remover o biofilme."
+B) "Sua gengiva sangra porque você tem periodontite avançada e precisa de cirurgia imediatamente."
+C) "Gengiva saudável NÃO sangra ao escovar. O sangramento é um sinal de que as gengivas estão inflamadas e é o corpo pedindo socorro."
+D) "O sangramento significa que você está com deficiência de vitamina C e precisa de suplementos."
+E) "O sangramento é um efeito colateral comum da escovação e não indica nenhum problema grave."
+GABARITO: C
+COMENTARIO:
+A seção "6. Comunicação com o Paciente", sob o título "Por que a gengiva sangra?", oferece a seguinte explicação: "Gengiva saudável NÃO sangra ao escovar. Pense assim: se sua mão sangrasse toda vez que você a lavasse, você se preocuparia, certo? O sangramento é um sinal de que as gengivas estão inflamadas — é o corpo pedindo socorro. A boa notícia é que, com higiene correta, isso melhora rapidamente."
+
+As outras alternativas estão incorretas porque:
+- A) É uma informação falsa e perigosa, pois o sangramento não é normal.
+- B) É um diagnóstico precipitado e alarmista, sem base nas informações fornecidas.
+- D) Embora a deficiência de vitamina C possa causar sangramento, a causa mais comum e a primeira a ser considerada é a inflamação por biofilme, e a explicação do texto foca nisso.
+- E) Contraria diretamente a premissa de que gengiva saudável não sangra e minimiza um sinal importante de doença.
+
+Dica relevante: A comunicação eficaz com o paciente é tão importante quanto o tratamento clínico. Usar linguagem simples e analogias (como a da mão sangrando) ajuda o paciente a compreender a condição e a importância da higiene.
+---
+QUESTAO:
+De acordo com a "Apostila de Periodontia", o periodonto é dividido em duas grandes unidades funcionais. Qual das alternativas apresenta corretamente os componentes do Periodonto de Proteção?
+A) Cemento radicular, ligamento periodontal e osso alveolar.
+B) Gengiva livre, gengiva inserida e osso alveolar.
+C) Gengiva livre, gengiva inserida e gengiva interdental.
+D) Ligamento periodontal, gengiva interdental e cemento radicular.
+E) Osso alveolar, gengiva livre e gengiva inserida.
+GABARITO: C
+COMENTARIO: O texto define o Periodonto de Proteção como sendo composto pela Gengiva livre (marginal), Gengiva inserida (ceratinizada) e Gengiva interdental (papila). As outras alternativas misturam componentes do Periodonto de Proteção com o Periodonto de Sustentação (cemento radicular, ligamento periodontal, osso alveolar), ou apresentam combinações incorretas.
+Dica: Memorize as duas divisões e seus respectivos componentes para evitar confusão. O periodonto de proteção atua como uma barreira, enquanto o de sustentação ancora o dente.
+---
+QUESTAO:
+Segundo a "Apostila de Periodontia", qual dos seguintes marcos anatômicos é crucial para medir o Nível de Inserção Clínica (NIC)?
+A) Crista Alveolar
+B) Fundo da Bolsa
+C) Furca
+D) Junção Esmalte-Cemento (JEC)
+E) Linha mucogengival
+GABARITO: D
+COMENTARIO: O texto afirma claramente que a Junção Esmalte-Cemento (JEC) é o "Ponto de referência para medir o NIC". A crista alveolar e o fundo da bolsa são importantes para outras medidas periodontais (perda óssea e profundidade de sondagem, respectivamente), e a furca é avaliada para envolvimento multirradicular, mas não são o ponto de referência para o NIC. A linha mucogengival não é mencionada como referência para o NIC neste contexto.
+Dica: Lembre-se da fórmula NIC = PS + Recessão Gengival (quando há recessão) ou NIC = PS − Hiperplasia Gengival (quando a gengiva migra coronalmente). A JEC é o ponto fixo a partir do qual essas medidas são calculadas.
+---
+QUESTAO:
+Conforme a "Apostila de Periodontia", qual é a principal característica que diferencia uma Gengivite Induzida por Biofilme de uma Periodontite (Estágios I-IV)?
+A) Presença de sangramento à sondagem em ≥ 10% dos sítios.
+B) Edema e eritema gengival.
+C) Ausência de perda de inserção clínica (NIC) e perda óssea radiográfica.
+D) Profundidade de sondagem aumentada (≥ 4 mm).
+E) Reversibilidade total com remoção do biofilme.
+GABARITO: C
+COMENTARIO: O quadro "Diferencial Crítico: Gengivite × Periodontite" e a descrição de Gengivite Induzida por Biofilme enfatizam que a gengivite é caracterizada pela "Ausência de perda de inserção (NIC) ou perda óssea radiográfica". Todas as outras alternativas (sangramento, edema, eritema, profundidade de sondagem aumentada e reversibilidade) podem estar presentes em ambos os quadros ou são características da gengivite, mas não são o diferencial crítico que a distingue da periodontite, que invariavelmente apresenta perda de NIC e óssea.
+Dica: O "ERRO FREQUENTE" mencionado no texto é justamente confundir profundidade de sondagem aumentada com perda de inserção. A ausência de perda de inserção clínica e óssea é o marcador fundamental da gengivite.
+---
+QUESTAO:
+Na Classificação 2018 da doença periodontal, um paciente que apresenta Nível de Inserção Clínica (NIC) de 3-4 mm, Profundidade de Sondagem (PS) de ≤ 5 mm e nenhuma perda dentária devido à periodontite, seria classificado em qual estágio?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Não é possível determinar sem a perda óssea radiográfica.
+GABARITO: B
+COMENTARIO: A tabela "Tabela de Sinais Clínicos por Estágio" no texto indica que o Estágio II é caracterizado por NIC de 3-4 mm, PS de ≤ 5 mm e nenhuma perda dentária. O Estágio I tem NIC de 1-2 mm e PS de ≤ 4 mm. Estágios III e IV apresentam NIC ≥ 5 mm e geralmente maior perda dentária ou disfunção mastigatória. Embora a perda óssea radiográfica seja um critério, os dados fornecidos já são suficientes para classificar o estágio com base nos critérios de NIC e PS.
+Dica: Conheça os principais limites de NIC e PS para cada estágio da periodontite, pois são critérios chave para a classificação.
+---
+QUESTAO:
+Um paciente apresenta NIC ≥ 5 mm, perda de 6 dentes devido à doença periodontal, e disfunção mastigatória evidente. De acordo com a Classificação 2018, qual seria o estágio da periodontite?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Grau C
+GABARITO: D
+COMENTARIO: O "Macete" na seção "3.3 Tabela de Sinais Clínicos por Estágio" afirma: "Se o paciente tem DISFUNÇÃO mastigatória (colapso de mordida, migrações, comprometimento estético grave) → SEMPRE Estágio IV, independente do NIC." Além disso, a perda de ≥ 5 dentes é um critério para Estágio IV. Grau C refere-se à velocidade de progressão e não ao estágio da doença.
+Dica: A presença de disfunção mastigatória é um critério mandatório e exclusivo para o diagnóstico de Periodontite Estágio IV, independentemente de outros parâmetros.
+---
+QUESTAO:
+Durante o exame clínico periodontal, qual é a pressão de sondagem recomendada para a coleta de dados no periograma completo?
+A) 0,10 N (≈ 10 g)
+B) 0,25 N (≈ 25 g)
+C) 0,50 N (≈ 50 g)
+D) 1,00 N (≈ 100 g)
+E) A pressão deve ser determinada pela sensibilidade do paciente.
+GABARITO: B
+COMENTARIO: Na seção "4. Fluxo do Exame Clínico (Diagnóstico Passo a Passo)", item 4 (Periograma Completo), o texto especifica: "Pressão de sondagem recomendada: 0,25 N (≈ 25 g)". Esta é uma padronização internacional para garantir a reprodutibilidade das medidas.
+Dica: A pressão padronizada é fundamental para evitar subestimar ou superestimar a profundidade de sondagem e o NIC, garantindo um diagnóstico mais preciso e comparável.
+---
+QUESTAO:
+Um dentista está realizando a raspagem e alisamento radicular em um molar superior e precisa instrumentar a face distal. Qual cureta Gracey é a mais indicada para essa tarefa, de acordo com o texto?
+A) Gracey 5/6
+B) Gracey 7/8
+C) Gracey 11/12
+D) Gracey 13/14
+E) McCall 13/14
+GABARITO: D
+COMENTARIO: O "Mapa de Uso" das Curetas Gracey e o "ERRO CLÁSSICO" na seção 5.2 especificam que as Gracey 13/14 são para "Posteriores" e "Faces DISTAIS". As Gracey 11/12 são para faces mesiais de posteriores. As outras curetas Gracey são para regiões anteriores/pré-molares ou faces vestibulares/linguais de posteriores. McCall 13/14 é uma cureta universal, não uma Gracey específica para distais de posteriores.
+Dica: O macete "13/14 → Distal" (D de 14 = Distal) é uma excelente forma de memorizar a indicação correta para essas curetas.
+---
+QUESTAO:
+Qual é o ângulo de angulação da lâmina da cureta em relação à superfície radicular recomendado durante a técnica de raspagem e alisamento radicular (RAR) para ser eficaz e evitar trauma tecidual?
+A) 0° (fechado)
+B) Entre 30° e 45°
+C) Entre 70° e 80°
+D) 90°
+E) Acima de 90°
+GABARITO: C
+COMENTARIO: Na seção "5.3 Técnica de Raspagem e Alisamento Radicular (RAR)", item 2 (Posicionamento), o texto instrui: "angule a lâmina entre 70° e 80° em relação à superfície radicular. Abaixo de 45° = raspagem ineficaz; acima de 90° = trauma tecidual." O ângulo de 0° é para adaptação inicial.
+Dica: A angulação correta é crucial para a eficácia da raspagem e para evitar danos aos tecidos moles e duros. Lembre-se que um ângulo muito fechado não remove o cálculo, e um ângulo muito aberto pode cortar o tecido mole.
+---
+QUESTAO:
+Segundo o texto, a adesão do paciente ao tratamento periodontal depende diretamente da qualidade da comunicação. Qual analogia é utilizada para explicar a importância da manutenção periodontal?
+A) O biofilme como um filme esbranquiçado que irrita a gengiva.
+B) A gengiva sangrando como uma mão que sangra ao lavar.
+C) Os dentes presos no osso como postes fincados no chão.
+D) O tratamento na clínica como arrumar o telhado da casa.
+E) A doença periodontal como uma ferida que nunca cicatriza.
+GABARITO: D
+COMENTARIO: Na seção "6. Comunicação com o Paciente", a analogia para explicar a importância da manutenção é: "O tratamento que fazemos aqui na clínica é como arrumar o telhado da casa. Mas se você não continuar limpando as calhas e cuidando do jardim, os problemas podem voltar." As outras alternativas são analogias utilizadas para explicar outros conceitos (causa da doença, sangramento, perda óssea, etc.).
+Dica: As analogias são ferramentas poderosas na comunicação com o paciente. Conhecer as analogias específicas para cada conceito ajuda a reforçar a importância da educação do paciente.
+---
+QUESTAO:
+Qual dos seguintes instrumentos é descrito como ideal para remoção de cálculo supragengival volumoso antes da Raspagem e Alisamento Radicular (RAR)?
+A) Sonda Carolina do Norte (UNC 15)
+B) Sonda Nabers
+C) Cureta Gracey 11/12
+D) McCall 13/14 ou 17/18
+E) Ultrassom (Piezoelétrico/Magnetoestritivo)
+GABARITO: D
+COMENTARIO: Na seção "5.4 Outros Instrumentos Importantes", o texto menciona: "McCall 13/14 e 17/18: Cureta universal: atua em todas as faces, principalmente supra-gengival. Ideal para remoção de cálculo supragengival volumoso antes da RAR." As sondas são para diagnóstico, as curetas Gracey são para RAR subgengival, e o ultrassom é um complemento que também pode ser usado, mas as curetas McCall são especificamente destacadas para o cálculo supragengival volumoso.
+Dica: Compreender a função específica de cada instrumento é fundamental para o planejamento e execução do tratamento periodontal. Curetas universais são geralmente mais robustas e eficazes para grandes depósitos supragengivais antes de refinar com as Gracey subgengivais.
+---
+QUESTAO:
+1. De acordo com o texto, qual é a principal diferença entre Gengivite e Periodontite?
+A) A gengivite é uma inflamação que afeta apenas a gengiva, enquanto a periodontite é uma inflamação que afeta apenas o osso alveolar.
+B) A periodontite é reversível, enquanto a gengivite não é.
+C) A periodontite é caracterizada pela presença de perda de inserção clínica (NIC) e perda óssea radiográfica, ausentes na gengivite.
+D) A gengivite sempre causa dor intensa, enquanto a periodontite é assintomática.
+E) A gengivite é uma condição crônica, enquanto a periodontite é aguda.
+GABARITO: C
+COMENTARIO: A resposta correta é a C. O texto afirma explicitamente que a principal diferença entre gengivite e periodontite é "A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite. A gengivite é uma inflamação restrita à gengiva, sem perda de suporte, e é reversível."
+As outras alternativas estão incorretas:
+A) A periodontite afeta tanto a gengiva quanto o osso alveolar e outras estruturas de suporte, não apenas o osso.
+B) A gengivite é reversível, enquanto a periodontite não é completamente reversível, mas controlável.
+D) Nem a gengivite nem a periodontite sempre causam dor intensa; ambas podem ser assintomáticas em estágios iniciais ou em alguns casos.
+E) Ambas são consideradas condições crônicas, embora a gengivite possa ser aguda em certas manifestações.
+Dica: Entender a distinção entre perda de inserção clínica (NIC) e profundidade de sondagem (PS) é crucial para o diagnóstico diferencial entre gengivite e periodontite. O NIC é o parâmetro mais fidedigno para avaliar a perda de suporte periodontal.
+---
+QUESTAO:
+2. Qual das seguintes opções descreve corretamente o ângulo recomendado da cureta durante o movimento de raspagem para remoção eficaz do cálculo, conforme o texto?
+A) Menos de 45° entre a lâmina e a superfície radicular, para evitar trauma.
+B) Exatamente 90° para máxima remoção.
+C) 70° a 80° entre a face interna da lâmina e a superfície radicular.
+D) Mais de 90° para alcançar áreas subgengivais profundas.
+E) Qualquer ângulo é aceitável, desde que o instrumento esteja afiado.
+GABARITO: C
+COMENTARIO: A resposta correta é a C. O texto afirma: "Qual o ângulo recomendado da cureta durante o movimento de raspagem? ✔ 70° a 80° entre a face interna da lâmina e a superfície radicular."
+As outras alternativas estão incorretas:
+A) O texto menciona que "< 45° = raspagem ineficaz (desliza sem cortar)".
+B) E) O texto não recomenda 90° nem "qualquer ângulo".
+D) O texto afirma que "> 90° = trauma tecidual".
+Dica: O controle do ângulo de inserção da cureta é fundamental para a eficácia da raspagem e para evitar danos aos tecidos moles e duros. Um ângulo inadequado pode levar a polimento do cálculo ou trauma gengival.
+---
+QUESTAO:
+3. No Caso 2, o paciente é diagnosticado com Periodontite Estágio II, Grau B, Generalizada. Qual dos fatores abaixo contribuiu para a classificação do Grau B?
+A) A idade do paciente (40 anos).
+B) A presença de gengiva edemaciada e sangramento à sondagem generalizado.
+C) O histórico de tabagismo (5 cigarros/dia há 10 anos) e DM tipo 2 controlado.
+D) A mobilidade Grau 1 em incisivos inferiores.
+E) A perda óssea radiográfica horizontal em 20% dos dentes (1/3 coronário).
+GABARITO: C
+COMENTARIO: A resposta correta é a C. O texto menciona que o Grau (A, B, C) descreve a velocidade de progressão da doença e a resposta esperada ao tratamento, baseando-se em evidência direta de progressão ou "fatores de risco modificadores (tabagismo, DM)". No Caso 2, o paciente é tabagista (5 cigarros/dia há 10 anos) e tem DM tipo 2 controlado. Embora o texto não especifique que 5 cigarros/dia resulta em Grau B, ele categoriza o tabagismo e o DM como fatores de risco modificadores do Grau. No Quiz, é mencionado que "Tabagistas ≥ 10 cigarros/dia classificam a doença como Grau C", o que implica que um tabagismo de menor intensidade (como 5 cigarros/dia) ou um DM controlado, por si só, podem ser fatores que elevam o grau para B ou C, dependendo da combinação e da ausência de outros fatores que o manteriam em A.
+As outras alternativas estão incorretas:
+A) A idade não é um fator direto para o Grau, mas para o Estágio.
+B) Gengiva edemaciada e sangramento à sondagem são sinais de inflamação e estão presentes tanto na gengivite quanto na periodontite, não sendo específicos para o Grau.
+D) A mobilidade Grau 1 é um indicador de complexidade, contribuindo para o Estágio, não para o Grau.
+E) A perda óssea radiográfica é um critério para o Estágio da doença (gravidade), não para o Grau (velocidade de progressão).
+Dica: A classificação da periodontite de 2018 separa Estágio (gravidade e complexidade) e Grau (velocidade de progressão e fatores de risco). Fatores como tabagismo e diabetes, mesmo que controlados, são modificadores importantes do Grau.
+---
+QUESTAO:
+4. Qual é o principal fator etiológico da gengivite e periodontite, de acordo com o glossário apresentado?
+A) Sangramento à Sondagem (SS).
+B) Nível de Inserção Clínica (NIC).
+C) Biofilme (Placa Dental).
+D) Recessão Gengival.
+E) Mobilidade Dental.
+GABARITO: C
+COMENTARIO: A resposta correta é a C. No Glossário Essencial de Periodontia, a definição de "Biofilme (Placa Dental)" é: "Comunidade estruturada de micro-organismos aderida à superfície dental, envoltos em matriz extracelular. Principal fator etiológico da gengivite e periodontite."
+As outras alternativas estão incorretas:
+A) Sangramento à Sondagem (SS) é um sinal de inflamação, não a causa.
+B) Nível de Inserção Clínica (NIC) é uma medida da perda de suporte, não a causa.
+D) Recessão Gengival é uma condição clínica, não a causa primária da doença.
+E) Mobilidade Dental é um sinal de perda de suporte avançada, não a causa.
+Dica: É fundamental diferenciar sinais/sintomas/consequências da doença do seu fator etiológico primário. O biofilme é a base para o desenvolvimento da inflamação periodontal.
+---
+QUESTAO:
+5. Um paciente apresenta NIC = 6 mm, perda óssea radiográfica avançada (além do 1/3 médio), mobilidade Grau 2 em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. Qual o Estágio correto para este paciente, considerando a classificação de periodontite de 2018 e as informações do texto?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Não é possível determinar com as informações fornecidas.
+GABARITO: C
+COMENTARIO: A resposta correta é a C. A questão Q6 do Quiz no texto aborda exatamente esta situação: "Um paciente com NIC = 6 mm, perda óssea radiográfica além do terço médio, mobilidade grau 2 em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. Qual o Estágio? ✔ Estágio III. O Estágio IV exige disfunção mastigatória (colapso de mordida, migrações, perda de suporte em dentes pilares). Como não há disfunção aqui, mesmo com a gravidade, o diagnóstico é Estágio III."
+As outras alternativas estão incorretas, pois o Estágio IV é reservado para casos com disfunção mastigatória ou perda dentária significativa devido à periodontite.
+Dica: A classificação de Estágio na periodontite é baseada na gravidade, complexidade e extensão da doença. O Estágio IV implica em disfunção mastigatória e reabilitação complexa, sendo importante diferenciar do Estágio III, que, embora grave, ainda não apresenta essas disfunções.
+---
+QUESTAO:
+6. Qual a finalidade da sonda Nabers, conforme descrito no texto?
+A) Avaliar a profundidade de sondagem em locais com recessão gengival.
+B) Medir o nível de inserção clínica (NIC) em dentes anteriores.
+C) Detectar envolvimento de furca em dentes multirradiculares.
+D) Avaliar o sangramento à sondagem em todos os sítios.
+E) Determinar a mobilidade dental em dentes com trauma oclusal.
+GABARITO: C
+COMENTARIO: A resposta correta é a C. A questão Q5 do Quiz no texto pergunta: "Qual sonda é utilizada especificamente para detectar envolvimento de furca? ✔ Sonda Nabers. Sua curvatura permite acesso ao espaço interradicular."
+As outras alternativas estão incorretas:
+A) A sonda periodontal comum é usada para profundidade de sondagem.
+B) O NIC é medido com sonda periodontal comum, usando a JEC como referência.
+D) O sangramento à sondagem é avaliado com sonda periodontal comum após a sondagem.
+E) A mobilidade dental é avaliada manualmente ou com dois cabos de instrumentos.
+Dica: A sonda Nabers é um instrumento especializado, projetado com uma ponta curva para acessar e avaliar as áreas de furca em dentes molares e pré-molares superiores, onde as raízes se dividem.
+---
+QUESTAO:
+7. No Caso 3 (Periodontite Estágio IV, Grau C, Generalizada), o prognóstico é considerado "Reservado" e exige manejo multidisciplinar e adesão máxima do paciente. Qual dos fatores abaixo é um dos principais contribuintes para a classificação de Grau C neste caso?
+A) A idade da paciente (60 anos).
+B) A presença de gengiva retraída e sangramento à sondagem.
+C) O diagnóstico de DM tipo 2 descompensado (HbA1c 9%).
+D) A perda de 6 dentes por doença periodontal.
+E) A disfunção mastigatória (colapso de mordida).
+GABARITO: C
+COMENTARIO: A resposta correta é a C. O texto, na questão Q4 do Quiz, explica que o Grau descreve a velocidade de progressão e é baseado em fatores de risco modificadores como tabagismo e DM. No caso 3, a paciente apresenta "DM tipo 2 descompensado (HbA1c 9%)" e "Tabagista (20 cigarros/dia há 40 anos)". Ambos são fatores de risco que aceleram a progressão da doença, classificando-a como Grau C. O texto afirma na Q8 que "O tabaco compromete a resposta imune... acelera a destruição periodontal... Tabagistas ≥ 10 cigarros/dia classificam a doença como Grau C", e o diabetes descompensado também é um forte fator de risco para progressão rápida e resposta diminuída ao tratamento.
+As outras alternativas estão incorretas:
+A) A idade é um fator para o Estágio, não para o Grau.
+B) Gengiva retraída e sangramento à sondagem são sinais clínicos, não determinantes do Grau.
+D) A perda de 6 dentes é um critério para o Estágio (gravidade e complexidade, Estágio IV).
+E) A disfunção mastigatória (colapso de mordida) é um critério para o Estágio IV, indicando complexidade.
+Dica: Diabetes descompensado e tabagismo pesado são fatores de risco sistêmicos que impactam significativamente a resposta do hospedeiro à infecção periodontal, levando a uma progressão mais rápida e, consequentemente, a um Grau C.
+---
+QUESTAO:
+8. Qual a função principal da Terapia Periodontal Não Cirúrgica (TPNC) e qual o procedimento essencial que a compõe, de acordo com o texto?
+A) Reabilitação protética complexa, composta por cirurgias periodontais.
+B) Controle da progressão da doença através de exodontias.
+C) Remoção de cálculo e biofilme subgengival com alisamento radicular (RAR), sendo a principal terapia da fase I.
+D) Apenas instrução de higiene oral (IHO) e controle de fatores de risco.
+E) Avaliação contínua da condição periodontal sem intervenções ativas.
+GABARITO: C
+COMENTARIO: A resposta correta é a C. No glossário, a definição de "TPNC — Terapia Periodontal Não Cirúrgica" é: "Conjunto de procedimentos da fase I: IHO, controle de fatores de risco, RAR e reavaliação. Indicada para todos os estágios como primeira linha de tratamento." E a definição de "RAR — Raspagem e Alisamento Radicular" é: "Procedimento mecânico de remoção de cálculo e biofilme subgengival com alisamento da superfície radicular. Principal terapia da fase I (TPNC)."
+As outras alternativas estão incorretas:
+A) Reabilitação protética e cirurgias são parte do tratamento para casos mais avançados (Estágio IV), mas não a principal função da TPNC inicial.
+B) Exodontias são extrações dentárias, não a função principal da TPNC.
+D) A TPNC inclui IHO e controle de fatores de risco, mas também, e principalmente, a RAR.
+E) A TPNC envolve intervenções ativas, não apenas avaliação.
+Dica: A TPNC é a base do tratamento periodontal, independentemente do estágio da doença, e a Raspagem e Alisamento Radicular (RAR) é o procedimento chave para remover o biofilme e cálculo subgengival, controlando a infecção.
+---
+QUESTAO:
+9. O que o Sangramento à Sondagem (SS) indica e qual é o melhor indicador de saúde gengival, segundo o glossário?
+A) Indica ausência de inflamação e o melhor indicador de saúde é a presença de SS.
+B) Indica inflamação ativa e o melhor indicador de saúde é a ausência de SS.
+C) Indica trauma tecidual e o melhor indicador de saúde é a presença de recessão gengival.
+D) Indica perda óssea radiográfica e o melhor indicador de saúde é a mobilidade dental.
+E) Indica biofilme mineralizado e o melhor indicador de saúde é a profundidade de sondagem reduzida.
+GABARITO: B
+COMENTARIO: A resposta correta é a B. No glossário, a definição de "SS — Sangramento à Sondagem" é: "Sangramento que ocorre até 30 segundos após a sondagem. Indica inflamação ativa. Ausência de SS é o melhor indicador de saúde gengival."
+As outras alternativas estão incorretas, pois contradizem diretamente a informação fornecida.
+Dica: O sangramento à sondagem é um sinal clínico crucial de inflamação gengival. Sua ausência é um forte indicativo de estabilidade e saúde periodontal, especialmente após o tratamento.
+---
+QUESTAO:
+1. De acordo com o texto, qual é a principal diferença entre Gengivite e Periodontite?
+A) A gengivite apresenta perda óssea radiográfica, enquanto a periodontite não.
+B) A periodontite é reversível com higiene oral adequada, enquanto a gengivite não.
+C) A gengivite é uma inflamação restrita à gengiva sem perda de suporte, e a periodontite envolve perda de inserção clínica e perda óssea.
+D) A periodontite é sempre localizada, e a gengivite é sempre generalizada.
+E) A gengivite é caracterizada por sangramento à sondagem, enquanto a periodontite não.
+GABARITO: C
+COMENTARIO: A questão aborda um conceito fundamental na periodontia, a distinção entre gengivite e periodontite. O texto afirma claramente que a principal diferença é "A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite. A gengivite é uma inflamação restrita à gengiva, sem perda de suporte, e é reversível."
+- A alternativa A está incorreta porque a perda óssea radiográfica é característica da periodontite, não da gengivite.
+- A alternativa B está incorreta porque a gengivite é reversível, enquanto a periodontite não é.
+- A alternativa D está incorreta, pois ambas as condições podem ser localizadas ou generalizadas.
+- A alternativa E está incorreta porque o sangramento à sondagem é um sinal comum de inflamação em ambas as condições, embora a sua ausência seja um melhor indicador de saúde gengival.
+Dica: Sempre memorize as características distintivas das doenças periodontais, especialmente a presença de perda de inserção e perda óssea, que marcam a transição de gengivite para periodontite.
+---
+QUESTAO:
+2. Um paciente de 40 anos, tabagista (5 cigarros/dia há 10 anos) e com DM tipo 2 controlado (HbA1c 6,5%), apresenta gengiva edemaciada, sangramento à sondagem generalizado, PS de 4-5 mm em vários sítios e NIC de 3-4 mm em 40% dos sítios. Há perda óssea radiográfica horizontal em 20% dos dentes (1/3 coronário) e mobilidade Grau 1 em incisivos inferiores. De acordo com o texto, qual o diagnóstico e o prognóstico esperados para este paciente?
+A) Gengivite induzida por biofilme, generalizada; Prognóstico: Excelente.
+B) Periodontite Estágio II, Grau B, Generalizada; Prognóstico: Bom.
+C) Periodontite Estágio IV, Grau C, Generalizada; Prognóstico: Reservado.
+D) Periodontite Estágio I, Grau A, Localizada; Prognóstico: Excelente.
+E) Periodontite Estágio III, Grau B, Generalizada; Prognóstico: Reservado.
+GABARITO: B
+COMENTARIO: Esta questão exige a aplicação da classificação de periodontite de 2018 com base nos dados clínicos do caso 2.
+- O paciente tem 40 anos, PS 4-5 mm, NIC 3-4 mm, perda óssea em 20% dos dentes (1/3 coronário) e mobilidade Grau 1. Estes achados são consistentes com Estágio II (PS 4-5 mm, perda óssea no terço coronário).
+- Os fatores de risco são tabagismo (5 cigarros/dia, que o texto indica como modificador de Grau B) e DM tipo 2 controlado (HbA1c 6,5%, também consistente com Grau B).
+- A condição é generalizada, pois o sangramento e as bolsas são generalizados.
+- O prognóstico indicado no texto para este caso é "Bom, com controle da progressão e adesão à manutenção".
+- A alternativa A é incorreta porque o paciente apresenta perda de inserção e perda óssea, o que descarta gengivite.
+- A alternativa C é incorreta, pois Estágio IV e Grau C (tabagismo > 10 cigarros/dia ou DM descompensado) são para casos mais graves.
+- A alternativa D é incorreta, pois o Estágio I e Grau A são para casos menos avançados e sem fatores de risco como tabagismo e DM.
+- A alternativa E é incorreta, pois o Estágio III envolve NIC ≥ 5mm e perda óssea além do 1/3 médio.
+Dica: Familiarize-se com os critérios de Estágio e Grau da classificação de periodontite de 2018, prestando atenção aos valores de NIC, PS, perda óssea e fatores de risco como tabagismo e DM.
+---
+QUESTAO:
+3. Qual o ângulo recomendado da cureta durante o movimento de raspagem para remover o cálculo de forma eficaz e sem causar trauma, conforme descrito no texto?
+A) Menor que 45°
+B) 45° a 60°
+C) 70° a 80°
+D) 80° a 90°
+E) Maior que 90°
+GABARITO: C
+COMENTARIO: O texto é explícito ao afirmar: "Qual o ângulo recomendado da cureta durante o movimento de raspagem? ✔ 70° a 80° entre a face interna da lâmina e a superfície radicular. < 45° = raspagem ineficaz (desliza sem cortar). > 90° = trauma tecidual."
+- A alternativa A está incorreta porque um ângulo menor que 45° torna a raspagem ineficaz.
+- As alternativas B, D e E estão incorretas, pois o ângulo ótimo para raspagem eficaz e segura é de 70° a 80°. Um ângulo maior que 90° pode causar trauma tecidual.
+Dica: O conhecimento sobre a angulação correta dos instrumentos é crucial para a prática clínica e frequentemente cobrado em concursos. Lembre-se que um ângulo inadequado pode comprometer a eficácia do procedimento e causar danos aos tecidos.
+---
+QUESTAO:
+4. Segundo o texto, o que define o GRAU na classificação de periodontite de 2018?
+A) A gravidade da doença e a complexidade do tratamento.
+B) A presença de perda óssea radiográfica e a profundidade de sondagem.
+C) A velocidade de progressão da doença e a resposta esperada ao tratamento, baseada em evidência direta de progressão ou fatores de risco modificadores.
+D) O número de dentes perdidos devido à periodontite e a necessidade de cirurgias periodontais.
+E) A presença de sangramento à sondagem e a quantidade de biofilme acumulado.
+GABARITO: C
+COMENTARIO: O texto define claramente o Grau: "O que define o GRAU na classificação de periodontite de 2018? ✔ O grau descreve a velocidade de progressão da doença e a resposta esperada ao tratamento. Baseia-se em: (a) evidência direta de progressão (perda óssea/NIC ao longo do tempo) ou (b) fatores de risco modificadores (tabagismo, DM). Grau A = lenta; B = moderada; C = rápida."
+- A alternativa A descreve o Estágio (gravidade e complexidade), não o Grau.
+- As alternativas B, D e E descrevem parâmetros clínicos e radiográficos que ajudam a determinar o Estágio e a presença da doença, mas não definem o Grau especificamente como a velocidade de progressão e a resposta ao tratamento.
+Dica: Distinguir entre Estágio e Grau é fundamental na nova classificação. Lembre-se que o Estágio avalia a extensão e severidade do dano presente, enquanto o Grau avalia a taxa de progressão da doença e o risco futuro, influenciado por fatores sistêmicos e ambientais.
+---
+QUESTAO:
+5. Qual das seguintes opções NÃO é uma característica da Periodontite Estágio IV, Grau C, Generalizada, conforme o Caso 3 apresentado?
+A) Perda de 6 dentes por doença periodontal.
+B) Disfunção mastigatória (colapso de mordida).
+C) DM tipo 2 descompensado (HbA1c 9%).
+D) Perda óssea radiográfica além do 1/3 médio.
+E) Prognóstico excelente, com reversão completa se houver adesão à higiene.
+GABARITO: E
+COMENTARIO: A questão pede a característica que NÃO se aplica ao caso clínico 3.
+- O caso 3 descreve um paciente com Periodontite Estágio IV, Grau C, Generalizada.
+- As características clínicas incluem: perda de 6 dentes por doença periodontal (A), disfunção mastigatória (colapso de mordida) (B), DM tipo 2 descompensado (HbA1c 9%) (C), e perda óssea radiográfica avançada (além do 1/3 médio) (D). Todas essas são características presentes no caso.
+- O prognóstico para este caso é explicitamente descrito como "Reservado, exige manejo multidisciplinar e adesão máxima do paciente." Portanto, a alternativa E, que sugere um "Prognóstico excelente, com reversão completa", está incorreta para este caso.
+Dica: Ao analisar casos clínicos, é essencial correlacionar todos os dados fornecidos (idade, histórico, achados clínicos, radiográficos) com os critérios de classificação e prognóstico. A leitura atenta dos detalhes de cada caso é crucial.
+---
+QUESTAO:
+6. Um paciente com Nível de Inserção Clínica (NIC) = 6 mm, perda óssea radiográfica além do terço médio, mobilidade grau 2 em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. De acordo com o texto, qual o Estágio correto para este paciente?
+A) Estágio I
+B) Estágio II
+C) Estágio III
+D) Estágio IV
+E) Gengivite
+GABARITO: C
+COMENTARIO: A questão remete diretamente a um exemplo dado no quiz de verificação: "Q6. Um paciente com NIC = 6 mm, perda óssea radiográfica além do terço médio, mobilidade grau 2 em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. Qual o Estágio? ✔ Estágio III. O Estágio IV exige disfunção mastigatória (colapso de mordida, migrações, perda de suporte em dentes pilares). Como não há disfunção aqui, mesmo com a gravidade, o diagnóstico é Estágio III."
+- As características (NIC = 6 mm, perda óssea além do terço médio) indicam uma gravidade que ultrapassa os Estágios I e II.
+- A ausência de perda dentária e, crucialmente, de disfunção mastigatória (colapso de mordida), impede o diagnóstico de Estágio IV.
+- Gengivite é descartada pela presença de NIC e perda óssea.
+Dica: A distinção entre Estágio III e Estágio IV na classificação de periodontite é sutil, mas importante. Lembre-se que a presença de perda de dentes devido à periodontite e/ou disfunção mastigatória (como colapso de mordida) são critérios para o Estágio IV. Sem esses fatores, mesmo com alta severidade, o Estágio é III.
+---
+QUESTAO:
+7. Qual instrumento é especificamente utilizado para detectar envolvimento de furca, e como são classificadas as furcas conforme o texto?
+A) Sonda Carolina; Classe I (< 3 mm), Classe II (≥ 3 mm), Classe III (passante).
+B) Sonda Periodontal Milimetrada; Classe I (até 1/3), Classe II (até 2/3), Classe III (total).
+C) Sonda Nabers; Classe I (< 3 mm de profundidade horizontal), Classe II (≥ 3 mm mas não passante), Classe III (passante).
+D) Sonda Excurvada; Classe I (apenas início), Classe II (parcial), Classe III (completa).
+E) Sonda Exploradora; Classe I (superficial), Classe II (média), Classe III (profunda).
+GABARITO: C
+COMENTARIO: O texto responde diretamente a esta questão no quiz de verificação: "Q5. Qual sonda é utilizada especificamente para detectar envolvimento de furca? ✔ Sonda Nabers. Sua curvatura permite acesso ao espaço interradicular. Furcas são classificadas em: Classe I (< 3 mm de profundidade horizontal), Classe II (≥ 3 mm mas não passante) e Classe III (passante, tunnel)."
+- As alternativas A, B, D e E estão incorretas por citarem sondas inadequadas ou classificações de furca que não correspondem às descritas no texto.
+Dica: A sonda Nabers é um instrumento essencial na prática periodontal para o diagnóstico de lesões de furca. Conhecer a classificação de Glickman (Classe I, II, III) é fundamental para descrever a extensão do envolvimento de furca.
+---
+QUESTAO:
+8. De acordo com o glossário essencial, o que é o Nível de Inserção Clínica (NIC)?
+A) A distância em mm da margem gengival até o fundo da bolsa/sulco.
+B) O sangramento que ocorre até 30 segundos após a sondagem.
+C) A distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco.
+D) O aprofundamento patológico do sulco gengival (> 3 mm).
+E) O deslocamento apical da margem gengival em relação à JEC.
+GABARITO: C
+COMENTARIO: O glossário define NIC como: "Nível de Inserção Clínica: Distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco. Medida de referência para quantificar a perda de suporte periodontal."
+- A alternativa A descreve a Profundidade de Sondagem (PS).
+- A alternativa B descreve o Sangramento à Sondagem (SS).
+- A alternativa D descreve a Bolsa Periodontal.
+- A alternativa E descreve a Recessão Gengival.
+Dica: É crucial diferenciar NIC de PS. O NIC é a medida mais precisa da perda de suporte periodontal, pois utiliza a JEC como um ponto de referência fixo, independentemente da posição da margem gengival.
+---
+QUESTAO:
+9. Qual o principal fator etiológico da gengivite e periodontite, conforme o glossário do texto?
+A) Tabagismo
+B) Diabetes Mellitus
+C) Biofilme (Placa Dental)
+D) Trauma oclusal
+E) Fatores genéticos
+GABARITO: C
+COMENTARIO: O glossário afirma: "Biofilme (Placa Dental): Comunidade estruturada de micro-organismos aderida à superfície dental, envoltos em matriz extracelular. Principal fator etiológico da gengivite e periodontite."
+- Tabagismo e Diabetes Mellitus (A e B) são fatores de risco e modificadores importantes da progressão da doença, mas não são o principal fator etiológico iniciador da inflamação.
+- Trauma oclusal (D) e fatores genéticos (E) podem ser contribuintes ou moduladores, mas o biofilme é o agente primário.
+Dica: A compreensão de que o biofilme é o principal fator etiológico é fundamental para toda a periodontia, pois direciona as estratégias de prevenção e tratamento para o controle mecânico e químico da placa bacteriana.
+---
+QUESTAO:
+10. Por que o tabagismo é considerado um modificador de Grau C na classificação de periodontite, de acordo com o texto?
+A) Porque aumenta a profundidade de sondagem.
+B) Porque causa recessão gengival.
+C) Porque compromete a resposta imune, acelera a destruição periodontal e diminui a resposta ao tratamento.
+D) Porque leva à perda de dentes.
+E) Porque dificulta a realização da higiene oral.
+GABARITO: C
+COMENTARIO: O texto explica: "Q8. Por que o tabagismo é um modificador de Grau C? ✔ O tabaco compromete a resposta imune (reduz quimiotaxia de neutrófilos, altera a vascularização e retarda a cicatrização), acelera a destruição periodontal e diminui a resposta ao tratamento. Tabagistas ≥ 10 cigarros/dia classificam a doença como Grau C."
+- As alternativas A, B, D e E descrevem consequências ou associações do tabagismo com a doença periodontal, mas não explicam o mecanismo pelo qual ele modifica o Grau da doença. O impacto na resposta imune, na progressão da destruição e na resposta ao tratamento é o cerne da classificação como Grau C.
+Dica: Fatores de risco como tabagismo e diabetes são cruciais na classificação de periodontite, especialmente no Grau. Entender os mecanismos biológicos pelos quais esses fatores afetam a doença é importante para um diagnóstico preciso e um plano de tratamento eficaz.
+---
+QUESTAO:
+1. De acordo com o texto, qual é a principal diferença entre Gengivite e Periodontite, conforme a classificação atual?
+A) A gengivite apresenta sangramento à sondagem, enquanto a periodontite não.
+B) A periodontite é uma inflamação restrita à gengiva, enquanto a gengivite envolve perda óssea.
+C) A periodontite é reversível, enquanto a gengivite não.
+D) A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite, ausentes na gengivite.
+E) A gengivite sempre apresenta PS > 3 mm, enquanto a periodontite sempre apresenta PS ≤ 3 mm.
+GABARITO: D
+COMENTARIO: A questão Q2 do "Quiz de Verificação" no texto afirma claramente que a principal diferença entre gengivite e periodontite é "A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite. A gengivite é uma inflamação restrita à gengiva, sem perda de suporte, e é reversível." As demais alternativas apresentam informações incorretas ou incompletas sobre a distinção entre as duas condições.
+---
+QUESTAO:
+2. Um paciente de 40 anos, tabagista (5 cigarros/dia há 10 anos) e com DM tipo 2 controlado (HbA1c 6,5%), apresenta gengiva edemaciada, sangramento à sondagem generalizado, PS de 4–5 mm em vários sítios, NIC de 3–4 mm em 40% dos sítios, perda óssea radiográfica horizontal em 20% dos dentes (1/3 coronário) e mobilidade Grau 1 em incisivos inferiores. Segundo o texto, qual seria o diagnóstico mais adequado para este paciente?
+A) Gengivite induzida por biofilme, generalizada.
+B) Periodontite Estágio II, Grau B, Generalizada.
+C) Periodontite Estágio III, Grau C, Generalizada.
+D) Periodontite Estágio IV, Grau C, Generalizada.
+E) Periodontite Estágio I, Grau A, Localizada.
+GABARITO: B
+COMENTARIO: Este caso clínico é idêntico ao "Caso 2" apresentado no texto. O diagnóstico fornecido para este caso é "Periodontite Estágio II, Grau B, Generalizada". O Estágio II é justificado pela perda de inserção clínica (NIC 3-4 mm) e perda óssea no terço coronário. O Grau B é justificado pelo tabagismo moderado (5 cigarros/dia) e DM controlado, que não chegam a caracterizar um Grau C (que seria para tabagismo ≥ 10 cigarros/dia ou DM descompensado). A periodontite é generalizada devido ao acometimento em 40% dos sítios.
+---
+QUESTAO:
+3. Qual é o ângulo recomendado da cureta em relação à superfície radicular durante o movimento de raspagem para uma remoção eficaz do cálculo e prevenção de trauma, conforme o texto?
+A) Menor que 45°.
+B) Entre 45° e 60°.
+C) Entre 70° e 80°.
+D) Maior que 90°.
+E) Qualquer ângulo, desde que o instrumento esteja afiado.
+GABARITO: C
+COMENTARIO: A questão Q7 do "Quiz de Verificação" no texto afirma que o ângulo recomendado da cureta durante o movimento de raspagem é "70° a 80° entre a face interna da lâmina e a superfície radicular." O texto também alerta que "< 45° = raspagem ineficaz (desliza sem cortar)" e "> 90° = trauma tecidual."
+---
+QUESTAO:
+4. De acordo com o "Glossário Essencial de Periodontia", o que define o Nível de Inserção Clínica (NIC)?
+A) A distância em mm da margem gengival até o fundo da bolsa/sulco.
+B) A distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco.
+C) O sangramento que ocorre até 30 segundos após a sondagem.
+D) O deslocamento apical da margem gengival em relação à JEC.
+E) A profundidade horizontal da furca em dentes multirradiculares.
+GABARITO: B
+COMENTARIO: No "Glossário Essencial de Periodontia", a definição de NIC é: "Distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco. Medida de referência para quantificar a perda de suporte periodontal." As outras alternativas descrevem PS (A), SS (C), Recessão Gengival (D) e Furca (E).
+---
+QUESTAO:
+5. Um paciente com 60 anos, DM tipo 2 descompensado (HbA1c 9%) e tabagista (20 cigarros/dia há 40 anos), apresenta perda de 6 dentes por doença periodontal, PS ≥ 6 mm em múltiplos sítios, NIC ≥ 5 mm em 80% dos sítios, perda óssea radiográfica avançada (além do 1/3 médio) e disfunção mastigatória (colapso de mordida). Qual o diagnóstico de Estágio e Grau mais provável, de acordo com o texto?
+A) Periodontite Estágio II, Grau B, Generalizada.
+B) Periodontite Estágio III, Grau C, Generalizada.
+C) Periodontite Estágio IV, Grau C, Generalizada.
+D) Periodontite Estágio I, Grau A, Generalizada.
+E) Gengivite induzida por biofilme, generalizada.
+GABARITO: C
+COMENTARIO: Este caso é o "Caso 3" do texto. O diagnóstico fornecido é "Periodontite Estágio IV, Grau C, Generalizada." O Estágio IV é justificado pela perda de dentes, perda óssea avançada, NIC ≥ 5 mm e, crucialmente, a presença de disfunção mastigatória (colapso de mordida). O Grau C é determinado pelo DM descompensado (HbA1c 9%) e tabagismo pesado (20 cigarros/dia há 40 anos), ambos fatores que aceleram a progressão da doença.
+---
+QUESTAO:
+6. Conforme o texto, quais são os dois eixos da classificação de periodontite de 2018?
+A) Gravidade e Reversibilidade.
+B) Estágio (gravidade e complexidade) e Grau (velocidade de progressão e fatores de risco).
+C) Localizada e Generalizada.
+D) Inflamação e Destruição.
+E) Presença de cálculo e profundidade de sondagem.
+GABARITO: B
+COMENTARIO: A questão Q3 do "Quiz de Verificação" no texto responde diretamente a esta pergunta: "Quais são os dois eixos da classificação de periodontite de 2018? ✔ Estágio (gravidade e complexidade) e Grau (velocidade de progressão e fatores de risco)."
+---
+QUESTAO:
+7. Qual sonda é especificamente utilizada para detectar envolvimento de furca e como são classificadas as furcas, segundo o texto?
+A) Sonda Carolina do Norte; Classe I (< 3 mm), Classe II (≥ 3 mm, passante), Classe III (passante, túnel).
+B) Sonda Williams; Classe I (< 3 mm), Classe II (≥ 3 mm, não passante), Classe III (passante, túnel).
+C) Sonda Nabers; Classe I (< 3 mm), Classe II (≥ 3 mm, mas não passante), Classe III (passante, tunnel).
+D) Sonda Goldman-Fox; Classe I (profunda), Classe II (média), Classe III (superficial).
+E) Sonda Michigan O; Classe I (não visível), Classe II (parcialmente visível), Classe III (totalmente visível).
+GABARITO: C
+COMENTARIO: A questão Q5 do "Quiz de Verificação" no texto aborda este tópico: "Qual sonda é utilizada especificamente para detectar envolvimento de furca? ✔ Sonda Nabers. Sua curvatura permite acesso ao espaço interradicular. Furcas são classificadas em: Classe I (< 3 mm de profundidade horizontal), Classe II (≥ 3 mm mas não passante) e Classe III (passante, tunnel)."
+---
+QUESTAO:
+8. Um paciente apresenta NIC = 6 mm, perda óssea radiográfica além do terço médio, mobilidade grau 2 em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. De acordo com o texto, qual é o Estágio correto para este paciente?
+A) Estágio I.
+B) Estágio II.
+C) Estágio III.
+D) Estágio IV.
+E) Estágio indeterminado, faltam dados.
+GABARITO: C
+COMENTARIO: A questão Q6 do "Quiz de Verificação" no texto descreve exatamente este cenário e fornece a resposta: "Estágio III. O Estágio IV exige disfunção mastigatória (colapso de mordida, migrações, perda de suporte em dentes pilares). Como não há disfunção aqui, mesmo com a gravidade, o diagnóstico é Estágio III."
+---
+QUESTAO:
+9. Por que o tabagismo, especialmente em ≥ 10 cigarros/dia, é considerado um modificador de Grau C na classificação da periodontite de 2018, de acordo com o texto?
+A) Porque aumenta a produção de saliva, diluindo os agentes antimicrobianos.
+B) Porque o tabaco compromete a resposta imune, acelera a destruição periodontal e diminui a resposta ao tratamento.
+C) Porque o tabagismo causa diretamente a formação de cálculo supragengival.
+D) Porque eleva o risco de cárie radicular, contribuindo indiretamente para a perda óssea.
+E) Porque o tabagismo está associado a uma menor incidência de sangramento gengival, mascarando a inflamação.
+GABARITO: B
+COMENTARIO: A questão Q8 do "Quiz de Verificação" no texto explica claramente: "Por que o tabagismo é um modificador de Grau C? ✔ O tabaco compromete a resposta imune (reduz quimiotaxia de neutrófilos, altera a vascularização e retarda a cicatrização), acelera a destruição periodontal e diminui a resposta ao tratamento. Tabagistas ≥ 10 cigarros/dia classificam a doença como Grau C." As outras alternativas são incorretas ou não justificam o Grau C.
+---
+QUESTAO:
+10. Qual a importância da afiação das curetas e foices na remoção do cálculo, conforme o texto?
+A) Instrumentos cegos removem o cálculo de forma mais suave, evitando dor.
+B) Instrumentos afiados escorregam menos e polêm o cálculo, facilitando a adesão do biofilme.
+C) A afiação é importante apenas para evitar o desgaste prematuro do instrumento.
+D) Instrumentos cegos escorregam e polêm o cálculo, não o removem, enquanto os afiados removem de forma eficaz e sem trauma.
+E) A afiação influencia apenas a estética do procedimento, não a eficácia da remoção.
+GABARITO: D
+COMENTARIO: Na seção "7.2 Manutenção dos Instrumentos", o texto afirma: "Afiação: Curetas e foices devem estar sempre afiadas para remover o cálculo de forma eficaz e sem causar trauma. Instrumentos cegos escorregam e polêm o cálculo, não o removem." Esta frase resume a importância da afiação e descreve o problema dos instrumentos cegos.
+---
+QUESTAO:
+1. De acordo com o texto, qual é a principal diferença entre gengivite e periodontite?
+A) A periodontite apresenta sangramento gengival, enquanto a gengivite não.
+B) A gengivite é uma inflamação que sempre leva à perda óssea, enquanto a periodontite não.
+C) A periodontite é caracterizada pela presença de perda de inserção clínica (NIC) e perda óssea radiográfica, ausentes na gengivite.
+D) A gengivite afeta apenas a gengiva inserida, enquanto a periodontite afeta a gengiva livre.
+E) A periodontite é reversível com a remoção do biofilme, enquanto a gengivite não.
+GABARITO: C
+COMENTARIO: O texto afirma explicitamente que a principal diferença entre gengivite e periodontite é "A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite. A gengivite é uma inflamação restrita à gengiva, sem perda de suporte, e é reversível." As demais alternativas apresentam informações incorretas ou incompletas sobre a distinção entre as duas condições. A gengivite é reversível, ao contrário da periodontite, que causa perda de suporte irreversível.
+
+---
+QUESTAO:
+2. Um paciente de 40 anos, tabagista (5 cigarros/dia há 10 anos) e com DM tipo 2 controlado (HbA1c 6,5%), apresenta gengiva edemaciada, sangramento à sondagem generalizado, PS 4–5 mm em vários sítios e NIC 3–4 mm em 40% dos sítios. Além disso, há perda óssea radiográfica horizontal em 20% dos dentes (1/3 coronário) e mobilidade Grau 1 em incisivos inferiores. Com base no texto, qual o diagnóstico e o prognóstico esperados para este paciente?
+A) Gengivite induzida por biofilme, generalizada, com prognóstico excelente.
+B) Periodontite Estágio II, Grau B, Generalizada, com prognóstico bom.
+C) Periodontite Estágio III, Grau C, Generalizada, com prognóstico reservado.
+D) Periodontite Estágio IV, Grau C, Generalizada, com prognóstico reservado.
+E) Periodontite Estágio I, Grau A, Localizada, com prognóstico excelente.
+GABARITO: B
+COMENTARIO: O "Caso 2" descrito no texto corresponde exatamente a essa situação. O paciente apresenta Periodontite Estágio II (pelas medidas de PS e NIC, e perda óssea no 1/3 coronário), Grau B (tabagismo de 5 cigarros/dia e DM controlado, que se encaixam em Grau B, não C, que seria para tabagismo ≥ 10 cigarros/dia ou DM descompensado). O prognóstico para este caso é classificado como "Bom, com controle da progressão e adesão à manutenção".
+
+---
+QUESTAO:
+3. Qual é o ângulo recomendado da cureta durante o movimento de raspagem para garantir a eficácia e evitar trauma tecidual, conforme descrito no texto?
+A) Menor que 45°.
+B) Entre 45° e 60°.
+C) Entre 70° e 80°.
+D) Maior que 90°.
+E) Qualquer ângulo é aceitável, desde que o cálculo seja removido.
+GABARITO: C
+COMENTARIO: O texto afirma: "Qual o ângulo recomendado da cureta durante o movimento de raspagem? ✔ 70° a 80° entre a face interna da lâmina e a superfície radicular. < 45° = raspagem ineficaz (desliza sem cortar). > 90° = trauma tecidual." A alternativa C reflete precisamente essa recomendação.
+
+---
+QUESTAO:
+4. De acordo com o glossário, o Nível de Inserção Clínica (NIC) é a distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco. Qual é a principal função do NIC na avaliação periodontal?
+A) Indicar a presença de sangramento gengival.
+B) Medir a profundidade da bolsa gengival.
+C) Quantificar a perda de suporte periodontal.
+D) Determinar a mobilidade dentária.
+E) Avaliar a quantidade de biofilme supragengival.
+GABARITO: C
+COMENTARIO: O glossário define NIC como "Distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco. Medida de referência para quantificar a perda de suporte periodontal." As outras opções descrevem outros parâmetros periodontais ou usos incorretos do NIC. O NIC é um marcador crucial da destruição tecidual e perda de inserção, sendo mais fidedigno que a Profundidade de Sondagem (PS) isoladamente, pois considera a posição da JEC.
+
+---
+QUESTAO:
+5. Um paciente com histórico de DM tipo 2 descompensado (HbA1c 9%) e tabagismo (20 cigarros/dia há 40 anos) apresenta perda de 6 dentes por doença periodontal, PS ≥ 6 mm em múltiplos sítios, NIC ≥ 5 mm em 80% dos sítios, perda óssea radiográfica avançada e disfunção mastigatória (colapso de mordida). Qual o diagnóstico de periodontite mais provável para este paciente, considerando a classificação de 2018?
+A) Gengivite induzida por biofilme.
+B) Periodontite Estágio II, Grau B, Generalizada.
+C) Periodontite Estágio III, Grau C, Generalizada.
+D) Periodontite Estágio IV, Grau C, Generalizada.
+E) Periodontite Estágio I, Grau A, Localizada.
+GABARITO: D
+COMENTARIO: Este cenário corresponde ao "Caso 3" do texto: "Periodontite Estágio IV, Grau C, Generalizada". O Estágio IV é indicado pela perda de dentes devido à doença periodontal, perda óssea radiográfica avançada, NIC ≥ 5 mm e disfunção mastigatória (colapso de mordida). O Grau C é justificado pelo tabagismo pesado (20 cigarros/dia) e DM descompensado (HbA1c 9%), que são fatores de risco que aceleram a progressão da doença.
+
+---
+QUESTAO:
+6. Qual das seguintes afirmações sobre a manutenção de instrumentos de raspagem está CORRETA, conforme o texto?
+A) Instrumentos cegos são preferíveis, pois causam menos trauma aos tecidos moles.
+B) A afiação das curetas é opcional e não influencia a eficácia da remoção de cálculo.
+C) A esterilização deve seguir rigorosamente os protocolos para evitar contaminação cruzada.
+D) Foices são utilizadas apenas para remoção de cálculo subgengival.
+E) A limpeza e desinfecção são suficientes, a esterilização em autoclave não é obrigatória para instrumentos periodontais.
+GABARITO: C
+COMENTARIO: O texto na seção "7.2 Manutenção dos Instrumentos" afirma: "Afiação: Curetas e foices devem estar sempre afiadas para remover o cálculo de forma eficaz e sem causar trauma. Instrumentos cegos escorregam e polêm o cálculo, não o removem. Esterilização: Seguir rigorosamente os protocolos de limpeza, desinfecção e esterilização (autoclave) para evitar contaminação cruzada." Portanto, a alternativa C é a única que está de acordo com as informações fornecidas.
+
+---
+QUESTAO:
+7. O texto menciona que o GRAU na classificação de periodontite de 2018 descreve a velocidade de progressão da doença e a resposta esperada ao tratamento. Quais são os dois principais fatores que baseiam a determinação do Grau?
+A) Profundidade de sondagem e sangramento à sondagem.
+B) Evidência direta de progressão (perda óssea/NIC ao longo do tempo) ou fatores de risco modificadores (tabagismo, DM).
+C) Nível de inserção clínica e perda óssea radiográfica.
+D) Mobilidade dentária e envolvimento de furca.
+E) Idade do paciente e histórico familiar de doença periodontal.
+GABARITO: B
+COMENTARIO: O texto afirma: "O que define o GRAU na classificação de periodontite de 2018? ✔ O grau descreve a velocidade de progressão da doença e a resposta esperada ao tratamento. Baseia-se em: (a) evidência direta de progressão (perda óssea/NIC ao longo do tempo) ou (b) fatores de risco modificadores (tabagismo, DM)." A alternativa B resume esses dois pilares para a classificação do Grau.
+
+---
+QUESTAO:
+8. Qual sonda é especificamente utilizada para detectar envolvimento de furca e como são classificadas as furcas, de acordo com o texto?
+A) Sonda Carolina do Norte; Classe I (< 3 mm), Classe II (≥ 3 mm), Classe III (passante).
+B) Sonda WHO; Classe I (não passante), Classe II (parcialmente passante), Classe III (totalmente passante).
+C) Sonda Nabers; Classe I (< 3 mm de profundidade horizontal), Classe II (≥ 3 mm mas não passante), Classe III (passante, tunnel).
+D) Sonda Williams; Classe I (até 1/3), Classe II (até 2/3), Classe III (totalmente envolvida).
+E) Sonda Periodontal Padrão; Classe I (superficial), Classe II (média), Classe III (profunda).
+GABARITO: C
+COMENTARIO: O texto no quiz (Q5) pergunta: "Qual sonda é utilizada especificamente para detectar envolvimento de furca? ✔ Sonda Nabers. Sua curvatura permite acesso ao espaço interradicular. Furcas são classificadas em: Classe I (< 3 mm de profundidade horizontal), Classe II (≥ 3 mm mas não passante) e Classe III (passante, tunnel)." A alternativa C reproduz fielmente essa informação.
+
+---
+QUESTAO:
+9. Um paciente apresenta NIC = 6 mm, perda óssea radiográfica além do terço médio e mobilidade grau 2 em 3 dentes. Contudo, NÃO há perda dentária e NEM colapso de mordida. Com base no quiz do texto, qual o Estágio correto para este caso?
+A) Estágio I.
+B) Estágio II.
+C) Estágio III.
+D) Estágio IV.
+E) Gengivite.
+GABARITO: C
+COMENTARIO: O quiz (Q6) do texto descreve exatamente este cenário: "Um paciente com NIC = 6 mm, perda óssea radiográfica além do terço médio, mobilidade grau 2 em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. Qual o Estágio? ✔ Estágio III. O Estágio IV exige disfunção mastigatória (colapso de mordida, migrações, perda de suporte em dentes pilares). Como não há disfunção aqui, mesmo com a gravidade, o diagnóstico é Estágio III."
+
+---
+QUESTAO:
+Um paciente de 25 anos, sexo feminino, apresenta queixa de sangramento gengival ao escovar. O exame clínico revela gengiva edemaciada, eritematosa, com sangramento à sondagem generalizado (> 30% dos sítios). A profundidade de sondagem (PS) é ≤ 3 mm em todos os dentes e não há nível de inserção clínica (NIC) ausente. Radiograficamente, não há perda óssea. Qual o diagnóstico periodontal mais adequado para este caso?
+A) Periodontite Estágio I, Grau A, Generalizada.
+B) Gengivite induzida por biofilme, generalizada.
+C) Periodontite Estágio II, Grau B, Localizada.
+D) Periodontite Estágio IV, Grau C, Generalizada.
+E) Periodontite associada a doença sistêmica.
+GABARITO: B
+COMENTARIO: A questão descreve um caso clássico de Gengivite induzida por biofilme. Os principais indicativos são: sangramento gengival, gengiva edemaciada e eritematosa, PS ≤ 3 mm e ausência de NIC e perda óssea radiográfica. A gengivite é uma inflamação restrita à gengiva, sem perda de suporte periodontal, e é reversível. As alternativas A, C e D são incorretas porque envolvem o diagnóstico de periodontite, que se caracteriza pela presença de perda de inserção clínica (NIC) e/ou perda óssea radiográfica, ausentes neste caso. A alternativa E não se aplica, pois não há indícios de doença sistêmica como fator etiológico principal.
+---
+QUESTAO:
+De acordo com a classificação de periodontite de 2018, quais são os dois eixos principais que definem o diagnóstico da doença?
+A) Gravidade da inflamação e extensão da doença.
+B) Estágio (gravidade e complexidade) e Grau (velocidade de progressão e fatores de risco).
+C) Tipo de biofilme predominante e resposta imune do hospedeiro.
+D) Presença de recessão gengival e profundidade das bolsas periodontais.
+E) Idade do paciente e histórico familiar de doença periodontal.
+GABARITO: B
+COMENTARIO: O texto especifica claramente que "Os dois eixos da classificação de periodontite de 2018 são Estágio (gravidade e complexidade) e Grau (velocidade de progressão e fatores de risco)". Esta é a base da nova classificação. As outras alternativas descrevem características da doença periodontal, mas não os eixos fundamentais da classificação de 2018.
+---
+QUESTAO:
+Um paciente de 40 anos, tabagista (5 cigarros/dia há 10 anos) e com diabetes mellitus tipo 2 controlado (HbA1c 6,5%), apresenta gengiva edemaciada e sangramento à sondagem generalizado. As profundidades de sondagem (PS) variam de 4-5 mm em vários sítios, e o nível de inserção clínica (NIC) é de 3-4 mm em 40% dos sítios. Há perda óssea radiográfica horizontal em 20% dos dentes (1/3 coronário) e mobilidade Grau 1 em incisivos inferiores. Qual o diagnóstico completo para este paciente, utilizando a classificação de 2018?
+A) Gengivite induzida por biofilme, generalizada.
+B) Periodontite Estágio I, Grau A, Localizada.
+C) Periodontite Estágio II, Grau B, Generalizada.
+D) Periodontite Estágio III, Grau C, Generalizada.
+E) Periodontite Estágio IV, Grau C, Generalizada.
+GABARITO: C
+COMENTARIO: Analisando o caso:
+- **Periodontite**: Presença de NIC (3-4 mm) e perda óssea radiográfica.
+- **Estágio**: PS de 4-5 mm e NIC de 3-4 mm, além de perda óssea no 1/3 coronário, indicam Estágio II (NIC 3-4 mm, perda óssea no terço coronário). Estágio I seria NIC 1-2 mm. Estágios III e IV teriam NIC ≥ 5 mm e perda óssea mais avançada.
+- **Grau**: O paciente é tabagista (5 cigarros/dia) e diabético com DM controlado (HbA1c 6,5%). O tabagismo abaixo de 10 cigarros/dia e DM controlado são fatores que classificam o Grau como B. Tabagismo ≥ 10 cigarros/dia ou DM descompensado classificariam como Grau C.
+- **Extensão**: "Sangramento à sondagem generalizado" e "PS 4-5 mm em vários sítios" e "NIC 3-4 mm em 40% dos sítios" caracterizam a doença como Generalizada (≥ 30% dos sítios afetados).
+Portanto, o diagnóstico é Periodontite Estágio II, Grau B, Generalizada.
+---
+QUESTAO:
+Sobre a manutenção dos instrumentos periodontais, o texto ressalta a importância da afiação das curetas e foices. Qual a principal razão para manter esses instrumentos sempre afiados?
+A) Para prolongar a vida útil do instrumento, evitando a necessidade de substituição frequente.
+B) Para reduzir o tempo de esterilização na autoclave, pois instrumentos afiados aquecem mais rápido.
+C) Para remover o cálculo de forma eficaz e sem causar trauma, pois instrumentos cegos escorregam e polêm o cálculo.
+D) Para diminuir o risco de contaminação cruzada, uma vez que superfícies afiadas são menos propensas ao acúmulo de biofilme.
+E) Para melhorar a estética do instrumental, conferindo um aspecto mais profissional ao consultório.
+GABARITO: C
+COMENTARIO: O texto afirma explicitamente: "Afiação: Curetas e foices devem estar sempre afiadas para remover o cálculo de forma eficaz e sem causar trauma. Instrumentos cegos escorregam e polêm o cálculo, não o removem." As outras alternativas não correspondem à justificativa apresentada no texto para a afiação dos instrumentos.
+---
+QUESTAO:
+Qual é o ângulo recomendado da cureta em relação à superfície radicular durante o movimento de raspagem para uma remoção eficaz e segura do cálculo?
+A) Menor que 45°.
+B) Entre 70° e 80°.
+C) Exatamente 90°.
+D) Maior que 90°.
+E) O ângulo não é relevante, desde que haja pressão suficiente.
+GABARITO: B
+COMENTARIO: O texto informa que "O ângulo recomendado da cureta durante o movimento de raspagem é de 70° a 80° entre a face interna da lâmina e a superfície radicular." Adicionalmente, explica as consequências de ângulos inadequados: "< 45° = raspagem ineficaz (desliza sem cortar). > 90° = trauma tecidual."
+---
+QUESTAO:
+Um paciente de 60 anos, com história de DM tipo 2 descompensado (HbA1c 9%) e tabagismo (20 cigarros/dia há 40 anos), apresenta perda de 6 dentes por doença periodontal e disfunção mastigatória (colapso de mordida). O exame clínico revela gengiva retraída, sangramento à sondagem, PS ≥ 6 mm em múltiplos sítios e NIC ≥ 5 mm em 80% dos sítios. Há perda óssea radiográfica avançada (além do 1/3 médio). Qual o diagnóstico de Estágio e Grau para este paciente?
+A) Estágio I, Grau A.
+B) Estágio II, Grau B.
+C) Estágio III, Grau C.
+D) Estágio IV, Grau C.
+E) Estágio IV, Grau A.
+GABARITO: D
+COMENTARIO: Analisando o caso:
+- **Estágio**: Presença de PS ≥ 6 mm, NIC ≥ 5 mm em 80% dos sítios, perda óssea avançada (além do 1/3 médio), perda de 6 dentes por DP e disfunção mastigatória (colapso de mordida) são critérios para Estágio IV. O Estágio IV é definido pela gravidade da perda de inserção, perda de dentes e, crucialmente, pela complexidade e disfunção mastigatória.
+- **Grau**: A combinação de DM tipo 2 descompensado (HbA1c 9%) e tabagismo pesado (20 cigarros/dia) são fortes indicadores de progressão rápida e alta complexidade, classificando o Grau como C. O texto menciona que tabagistas ≥ 10 cigarros/dia classificam a doença como Grau C, e DM descompensado também é um fator para Grau C.
+Portanto, o diagnóstico é Periodontite Estágio IV, Grau C, Generalizada (embora a generalização não seja pedida no gabarito, os múltiplos sítios e 80% de sítios afetados indicam essa extensão).
+---
+QUESTAO:
+Qual das seguintes afirmações descreve corretamente a principal diferença entre gengivite e periodontite?
+A) A gengivite envolve a presença de recessão gengival, enquanto a periodontite não.
+B) A periodontite é caracterizada pela presença de perda de inserção clínica (NIC) e perda óssea radiográfica, enquanto a gengivite é uma inflamação restrita à gengiva, sem perda de suporte.
+C) A gengivite é sempre dolorosa, enquanto a periodontite é assintomática.
+D) A periodontite é reversível com a remoção do biofilme, enquanto a gengivite não.
+E) A gengivite afeta apenas dentes anteriores, enquanto a periodontite afeta dentes posteriores.
+GABARITO: B
+COMENTARIO: O texto, na seção "Quiz de Verificação", responde diretamente a esta pergunta: "Q2. Qual a principal diferença entre gengivite e periodontite? ✔ A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite. A gengivite é uma inflamação restrita à gengiva, sem perda de suporte, e é reversível." As outras alternativas estão incorretas ou não representam a principal diferença.
+---
+QUESTAO:
+O que define o "Grau" na classificação de periodontite de 2018?
+A) A gravidade da doença com base na profundidade de sondagem e nível de inserção clínica.
+B) A velocidade de progressão da doença e a resposta esperada ao tratamento, baseando-se em evidência direta de progressão ou fatores de risco modificadores.
+C) O número de dentes perdidos devido à doença periodontal.
+D) A presença ou ausência de envolvimento de furca.
+E) A extensão da doença (localizada ou generalizada).
+GABARITO: B
+COMENTARIO: O texto, na seção "Quiz de Verificação", detalha a definição do Grau: "Q4. O que define o GRAU na classificação de periodontite de 2018? ✔ O grau descreve a velocidade de progressão da doença e a resposta esperada ao tratamento. Baseia-se em: (a) evidência direta de progressão (perda óssea/NIC ao longo do tempo) ou (b) fatores de risco modificadores (tabagismo, DM). Grau A = lenta; B = moderada; C = rápida." As outras alternativas descrevem aspectos do Estágio ou outras características da doença, mas não o Grau.
+---
+QUESTAO:
+Qual sonda é especificamente utilizada para detectar o envolvimento de furca em dentes multirradiculares?
+A) Sonda Carolina do Norte.
+B) Sonda Williams.
+C) Sonda Nabers.
+D) Sonda Goldman-Fox.
+E) Sonda PCP-15.
+GABARITO: C
+COMENTARIO: O texto, na seção "Quiz de Verificação", afirma: "Q5. Qual sonda é utilizada especificamente para detectar envolvimento de furca? ✔ Sonda Nabers. Sua curvatura permite acesso ao espaço interradicular." As outras sondas listadas são sondas periodontais comuns para medição de profundidade de sondagem e NIC, mas não são as específicas para furca.
+---
+QUESTAO:
+O que representa o Nível de Inserção Clínica (NIC) em Periodontia e qual sua importância?
+A) A distância da margem gengival até o fundo da bolsa, sendo o principal indicador de inflamação.
+B) A distância da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco, sendo a medida de referência para quantificar a perda de suporte periodontal.
+C) A profundidade horizontal do envolvimento de furca, classificando a gravidade da lesão.
+D) O grau de mobilidade dentária, indicando a estabilidade do dente no alvéolo.
+E) A distância da margem gengival até a JEC, indicando a presença de recessão gengival.
+GABARITO: B
+COMENTARIO: O "Glossário Essencial de Periodontia" define NIC como: "NIC — Nível de Inserção Clínica: Distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou sulco. Medida de referência para quantificar a perda de suporte periodontal." As outras alternativas descrevem outros parâmetros periodontais ou definições incorretas. O NIC é crucial por ser uma medida fixa e confiável da perda de suporte, independentemente da posição da margem gengival (que pode variar com hiperplasia ou recessão).
+---

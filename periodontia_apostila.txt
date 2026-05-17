@@ -1,0 +1,537 @@
+■ APOSTILA DE PERIODONTIA
+
+Da Anatomia ao Tratamento Clínico
+
+5.º Ano de Odontologia
+
+Este material foi elaborado para consolidar os conhecimentos essenciais de Periodontia segundo as
+diretrizes da Nova Classificação (2018) (Tonetti, Greenwell & Kornman; Chapple et al.; Papapanou et al.).
+Abrange desde a anatomia básica até as técnicas de instrumentação e comunicação clínica com o paciente.
+Use este guia como roteiro de estudo e referência rápida na clínica.
+
+Seção                                                           Tema
+
+1     Anatomia do Periodonto
+
+2     Saúde Periodontal e Níveis de Doença
+
+3     Classificação 2018: Estágios e Graus
+
+4     Diagnóstico: Fluxo de Exame Clínico
+
+5     Instrumentação Manual (Curetas Gracey)
+
+6     Comunicação com o Paciente
+
+7     Ergonomia e Manutenção dos Instrumentos
+
+8     Casos Clínicos Práticos
+
+9     Quiz de Verificação
+
+10     Glossário Essencial
+
+
+Baseado em: Tonetti MS et al. J Periodontol 2018; Papapanou PN et al. J Periodontol 2018; Lang NP & Lindhe J (eds.),
+Clinical Periodontology and Implant Dentistry, 6th ed.; Carranza FA et al., Carranza's Clinical Periodontology, 13th ed.
+
+
+Apostila de Periodontia – 5.º Ano | Página 1
+
+1. Anatomia do Periodonto
+
+1.1 Divisões Funcionais
+O periodonto é o conjunto de tecidos que suporta e envolve o dente. Divide-se em duas grandes unidades
+funcionais:
+
+Periodonto de Proteção                                      Periodonto de Sustentação
+• Gengiva livre (marginal)                                  • Cemento radicular
+• Gengiva inserida (ceratinizada)                           • Ligamento periodontal (LP)
+• Gengiva interdental (papila)                              • Osso alveolar
+
+Função: barreira física e imunológica contra                Função: ancorar o dente ao osso e absorver forças
+micro-organismos. Cor rosa-coral, consistência              mastigatórias. O ligamento contém fibras
+firme, superfície com pontilhado ("casca de                 colágenas (Sharpey) que unem cemento a osso e
+laranja") em pacientes saudáveis.                           fibroblastos responsáveis pela sua renovação
+constante.
+
+
+
+1.2 Marcos Anatômicos Cruciais para o Diagnóstico
+Estrutura                Definição                                          Importância Clínica
+
+JEC      Junção Esmalte-Cemento                 Ponto de referência para medir o NIC
+
+Crista
+Borda superior do osso alveolar        Normalmente 1–2 mm apical à JEC; sua reabsorção indica doença
+Alveolar
+
+Fundo da
+Limite apical da bolsa/sulco           Ponto distal da medida de PS
+Bolsa
+
+Furca     Bifurcação/trifurcação das raízes      Avaliada com sonda Nabers; envolvimento piora o prognóstico
+
+
+■ Dica de prova: NIC = PS + Recessão Gengival (quando há recessão) ou NIC = PS − Hiperplasia
+Gengival (quando a gengiva migra coronalmente).
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 2
+
+2. Saúde Periodontal e Níveis de Doença
+
+2.1 Sequência Lógica de Progressão
+A doença periodontal segue um continuum. Compreender cada nível é indispensável para o diagnóstico
+diferencial correto:
+
+Saúde Periodontal
+Gengiva cor rosa-coral, firme, contorno festonado. Sulco gengival ≤ 3 mm. Sangramento à
+1       sondagem (SS) em < 10% dos sítios. Sem perda de inserção nem perda óssea.
+
+
+Gengivite Induzida por Biofilme
+Inflamação restrita à gengiva marginal. Presença de SS (≥ 10% dos sítios), edema e eritema.
+2       Ausência de perda de inserção (NIC) ou perda óssea radiográfica. REVERSÍVEL com remoção do
+biofilme.
+
+
+Periodontite (Estágios I–IV)
+Inflamação crônica com destruição do aparelho de suporte: perda de inserção clínica, perda óssea
+3       radiográfica, possível formação de bolsa periodontal. Progressão variável (Graus A, B ou C).
+
+
+Doenças Necrosantes
+Formas graves associadas a comprometimento imunológico (HIV, desnutrição, estresse severo).
+4       Necrose de papilas, dor intensa, sangramento espontâneo e halitose. Requerem tratamento de
+urgência.
+
+
+
+2.2 Diferencial Crítico: Gengivite × Periodontite
+Critério                        Gengivite                               Periodontite
+
+Perda de Inserção (NIC)                            Ausente                             Presente (≥ 1 mm)
+
+Perda Óssea Radiográfica                           Ausente                                  Presente
+
+Sangramento à Sondagem                             Presente                                 Presente
+
+Reversibilidade                                 Total (com HO)                   Parcial (controle da progressão)
+
+Profundidade de Sondagem                        ≤ 3 mm (sulco)                           ≥ 4 mm (bolsa)
+
+
+■■ ERRO FREQUENTE: Confundir profundidade de sondagem aumentada com perda de inserção.
+Sem perda de NIC confirmada radiograficamente, o diagnóstico é GENGIVITE, não periodontite.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 3
+
+3. Classificação 2018: Estágios e Graus
+
+3.1 A Lógica da Classificação
+A nova classificação (Tonetti, Greenwell & Kornman, 2018) abandona os termos "crônica" e "agressiva" e
+organiza a periodontite em dois eixos independentes e complementares:
+
+ESTÁGIO (I, II, III, IV)                                                GRAU (A, B, C)
+
+
+Descreve a gravidade (quanto de destruição já ocorreu) e a          Descreve a velocidade de progressão e os fatores de risco
+complexidade do tratamento necessário.                              que podem modificar essa velocidade (tabagismo, diabetes).
+
+
+
+
+3.2 Analogias para Memorizar
+Estágio = "A Extensão do Estrago"
+Imagine uma casa em reforma. O estágio diz o quanto da estrutura foi danificada e o quão difícil é o
+conserto:
+
+Estágio I         Pequena rachadura na parede. NIC 1–2 mm, PS ≤ 4 mm.                                      Reparo simples.
+
+
+Estágio II         Dano moderado: tijolos expostos. NIC 3–4 mm, PS ≤ 5 mm.                                  Reparo planejado.
+
+
+Estágio III        Paredes comprometidas, mas a casa ainda está de pé. NIC ≥ 5 mm.                          Reforma estrutural.
+
+
+Reabilitação
+Estágio IV         Risco de desabamento. NIC ≥ 5 mm + disfunção mastigatória.
+complexa.
+
+
+Grau = "O Velocímetro da Doença"
+Representa a rapidez com que a periodontite avança:
+
+Grau A         Pedestre (lento)             Sem evidência de progressão nos últimos 5 anos. Sem fatores de risco.
+
+
+Grau B         Carro na cidade              Progressão moderada. Pode haver tabagismo < 10 cigarros/dia ou HbA1c < 7%.
+
+
+Progressão rápida. Tabagismo ≥ 10 cig/dia, DM descompensado, perda óssea > 2
+Grau C         Carro de corrida
+mm/ano.
+
+
+
+
+3.3 Tabela de Sinais Clínicos por Estágio
+Característica                    Estágio I               Estágio II                 Estágio III           Estágio IV
+
+NIC (perda de inserção)                  1–2 mm                  3–4 mm                      ≥ 5 mm                  ≥ 5 mm
+
+15–30% (1/3
+Perda Óssea (RX)                   < 15% (1/3 coronário)                            Além do 1/3 médio         Além do 1/3 médio
+coronário)
+
+Prof. de Sondagem (PS)                   ≤ 4 mm                  ≤ 5 mm                      ≥ 6 mm                  ≥ 6 mm
+
+Perda Dentária                          Nenhuma                 Nenhuma                    ≤ 4 dentes             ≥ 5 dentes
+
+Envolvimento de Furca                    Ausente                 Classe I                  Classe II/III         Classe II/III
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 4
+
+Defeitos Ósseos Verticais    Ausentes               Ausentes            Presentes (≥ 3 mm)      Presentes
+
+Disfunção Mastigatória         Não                     Não             Não necessariamente   SIM (obrigatório)
+
+
+■ Macete: Se o paciente tem DISFUNÇÃO mastigatória (colapso de mordida, migrações,
+comprometimento estético grave) → SEMPRE Estágio IV, independente do NIC.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 5
+
+4. Fluxo do Exame Clínico (Diagnóstico Passo a Passo)
+Siga esta sequência rigorosamente em toda consulta periodontal. Cada etapa gera dados que fundamentam
+o diagnóstico final:
+
+Anamnese Médica e Odontológica
+Interrogue: DM (HbA1c), tabagismo (cig/dia × anos), medicamentos (nifedipina → hiperplasia;
+1
+fenitoína; ciclosporina), histórico familiar de periodontite, gravidez, HIV.
+
+
+Exame Extraoral e Intraoral
+Palpação de linfonodos, inspeção de lábios, mucosa, língua e palato. Identifique lesões suspeitas
+2
+antes de focar no periodonto.
+
+
+Índices de Biofilme e Sangramento Gengival
+Registre o Índice de Placa Visível (O'Leary ou simplificado) e o Índice de Sangramento à Sondagem
+3
+(ISS). Esses dados motivam o paciente e estabelecem o baseline para monitoramento.
+
+
+Periograma Completo (Sondagem Periodontal)
+Colete em 6 sítios por dente (MV, V, DV, DP, P, MP):
+
+• PS – Profundidade de Sondagem
+• NIC – Nível de Inserção Clínica
+• Recessão gengival
+4
+• Sangramento à Sondagem (SS)
+• Envolvimento de Furca (sonda Nabers)
+• Mobilidade dental (Graus 1, 2, 3)
+Pressão de sondagem recomendada: 0,25 N (≈ 25 g).
+
+
+Exame Radiográfico
+Rx periapicais (padrão ouro) ou panorâmico como triagem. Avalie: nível da crista alveolar em relação
+5     à JEC (normal: 1–2 mm), padrão da perda óssea (horizontal ou vertical), envolvimento de furca,
+alargamento do espaço do LP.
+
+
+Diagnóstico e Plano de Tratamento
+Defina: Estágio + Grau + localização (localizada < 30% sítios / generalizada ≥ 30%). Elabore o plano
+6
+da Terapia Periodontal Não Cirúrgica (TPNC): RAR, motivação, reavaliação em 4–8 semanas.
+
+
+■ Regra de ouro: NUNCA atribua o diagnóstico de periodontite sem confirmar PERDA DE INSERÇÃO
+CLÍNICA (NIC) com suporte radiográfico. A sondagem isolada pode ser enganosa.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 6
+
+5. Instrumentação Manual: Curetas Gracey e Técnica de RAR
+
+5.1 Sondas Periodontais: Quando Usar Cada Una?
+Sonda                          Características                                      Indicação Principal
+
+Carolina do Norte (UNC 15)     Milimetrada a cada mm, total 15 mm         Medição de PS e NIC — padrão clínico
+
+Esfera na ponta (0,5 mm), marcas
+OMS (WHO / CPITN)              em 3,5–5,5–8,5–11,5 mm                     Triagem epidemiológica (CPITN)
+
+Nabers                         Curva, sem marcações agudas                Avaliação de furca (Classes I, II, III)
+
+
+
+
+5.2 Curetas Gracey: Mapa de Uso
+As curetas Gracey são área-específicas: cada par é desenhado para uma face dental específica. O fio
+cortante é apenas o lateral (inferior) — a borda mais baixa quando a lâmina é paralela ao chão:
+
+Par               Região                           Faces                                             Macete
+
+5/6      Anteriores e pré-molares       Todas as faces (livres)             "5 e 6 para os que aparecem ao sorrir"
+
+7/8      Posteriores                    Vestibular e lingual/palatina       "7 e 8 para as faces que você vê"
+
+11/12     Posteriores                    Faces MESIAIS                       "11/12 → Mesial" (M de 11 = Mesial)
+
+13/14     Posteriores                    Faces DISTAIS                       "13/14 → Distal" (D de 14 = Distal)
+
+
+
+■■ ERRO CLÁSSICO: Usar Gracey 11/12 para raspar faces distais de molares. A cureta correta para
+DISTAIS de posteriores é sempre a 13/14. Inverter o par causa trauma tecidual e raspagem
+incompleta.
+
+
+
+5.3 Técnica de Raspagem e Alisamento Radicular (RAR)
+A RAR tem dois objetivos complementares: remover depósitos duros (cálculo) e biofilme subgengival, e
+alisar a superfície radicular para dificultar a re-adesão bacteriana:
+
+Insira a ponta ativa da cureta no sulco/bolsa com ângulo de 0° (fechado), paralela ao
+1. Adaptação
+eixo do dente.
+
+Ao atingir o fundo da bolsa, angule a lâmina entre 70° e 80° em relação à superfície
+2.                       Posicionamento           radicular. Abaixo de 45° = raspagem ineficaz; acima de 90° = trauma tecidual.
+
+Use o dedo anelar (fulcro) em dentes vizinhos ou na própria arcada. Apoio firme =
+3. Apoio Digital
+movimentos controlados = menor risco de escorregamento.
+
+Curto, firme e controlado. Pode ser vertical, oblíquo ou horizontal dependendo da
+4. Movimento
+anatomia da bolsa. Nunca movimentos longos e rápidos.
+
+Passe a sonda periodontia após RAR: superfície lisa ao toque = alisamento adequado.
+5. Confirmação
+Repita se sentir irregularidades.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 7
+
+5.4 Outros Instrumentos Importantes
+McCall 13/14 e 17/18: Cureta universal: atua em todas as faces, principalmente supra-gengival. Ideal para
+remoção de cálculo supragengival volumoso antes da RAR.
+
+Foice McCall 11/12: Indicada para espaços interproximais de posteriores. Formato facilita acesso sem
+trauma às papilas.
+
+Ultrassom (Piezoelétrico/Magnetoestritivo): Complementar ao manual. Eficaz em bolsas profundas.
+Vantagem: menos fadiga do operador. Limitação: feedback tátil reduzido.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 8
+
+6. Comunicação com o Paciente
+A adesão ao tratamento depende diretamente da qualidade da comunicação. Utilize linguagem simples,
+analogias concretas e evite jargões técnicos. Lembre-se: o tratamento clínico representa apenas 50% do
+sucesso — a outra metade é a higiene oral domiciliar do paciente:
+
+
+Explicando a causa da doença
+■■ "Você já reparou naquele filme esbranquiçado que se forma nos dentes quando não escovamos?
+Chamamos de biofilme. Ele contém milhões de bactérias. Quando ficam tempo demais no mesmo
+lugar, essas bactérias irritam a gengiva e causam inflamação — é como uma ferida que nunca cicatriza
+enquanto a causa não é removida."
+
+
+
+Por que a gengiva sangra?
+■■ "Gengiva saudável NÃO sangra ao escovar. Pense assim: se sua mão sangrasse toda vez que
+você a lavasse, você se preocuparia, certo? O sangramento é um sinal de que as gengivas estão
+inflamadas — é o corpo pedindo socorro. A boa notícia é que, com higiene correta, isso melhora
+rapidamente."
+
+
+
+Explicando perda óssea
+■■ "Os seus dentes ficam presos no osso da mandíbula como se fossem postes fincados no chão.   Esse osso é o alicerce do dente. Quando a infecção periodontal avança, ela começa a corroer esse
+alicerce, fazendo com que o dente perca sua sustentação. É como se a terra em volta do poste fosse
+cedendo. Por isso, é tão importante parar a infecção para preservar o osso."
+
+
+
+Explicando a importância da manutenção
+■■ "O tratamento que fazemos aqui na clínica é como arrumar o telhado da casa. Mas se você não
+continuar limpando as calhas e cuidando do jardim, os problemas podem voltar. A manutenção em
+casa, com a escovação e o fio dental, e as visitas regulares ao dentista, são essenciais para que a
+doença não retorne."
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 9
+
+7. Ergonomia e Manutenção dos Instrumentos
+
+7.1 Ergonomia na Clínica
+Postura correta: Evita lesões por esforço repetitivo (LER) e melhora a visibilidade. Mantenha a coluna
+ereta, ombros relaxados e pés apoiados no chão. O paciente deve estar em posição que facilite o acesso
+à boca.
+
+Iluminação e Campo de Visão: Use refletor e, se possível, lupas de aumento. O campo de visão deve ser
+direto ou indireto (com espelho) e sem sombras.
+
+
+
+7.2 Manutenção dos Instrumentos
+Afiação: Curetas e foices devem estar sempre afiadas para remover o cálculo de forma eficaz e sem
+causar trauma. Instrumentos cegos escorregam e polêm o cálculo, não o removem.
+
+Esterilização: Seguir rigorosamente os protocolos de limpeza, desinfecção e esterilização (autoclave)
+para evitar contaminação cruzada.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 10
+
+8. Casos Clínicos Práticos
+
+8.1 Caso 1: Gengivite Induzida por Biofilme
+Paciente: 25 anos, sexo feminino. Queixa: sangramento gengival ao escovar.
+
+Exame Clínico: Gengiva edemaciada, eritematosa, sangramento à sondagem generalizado (> 30% dos
+sítios). PS ≤ 3 mm em todos os dentes. NIC ausente. Ausência de perda óssea radiográfica.
+
+Diagnóstico: Gengivite induzida por biofilme, generalizada.
+
+Plano de Tratamento: IHO (instrução de higiene oral), raspagem supragengival, profilaxia. Reavaliação
+em 15 dias.
+
+Prognóstico: Excelente, com reversão completa se houver adesão à higiene.
+
+
+
+8.2 Caso 2: Periodontite Estágio II, Grau B, Generalizada
+Paciente: 40 anos, sexo masculino. Queixa: dentes "moles" e sangramento.
+
+Histórico: Tabagista (5 cigarros/dia há 10 anos). DM tipo 2 controlado (HbA1c 6,5%).
+
+Exame Clínico: Gengiva edemaciada, sangramento à sondagem generalizado. PS 4–5 mm em vários
+sítios. NIC 3–4 mm em 40% dos sítios. Perda óssea radiográfica horizontal em 20% dos dentes (1/3
+coronário). Mobilidade Grau 1 em incisivos inferiores.
+
+Diagnóstico: Periodontite Estágio II, Grau B, Generalizada.
+
+Plano de Tratamento: IHO, controle do tabagismo e DM, TPNC (RAR). Reavaliação em 4–8 semanas.
+
+Prognóstico: Bom, com controle da progressão e adesão à manutenção.
+
+
+
+8.3 Caso 3: Periodontite Estágio IV, Grau C, Generalizada
+Paciente: 60 anos, sexo feminino. Queixa: perda de dentes, dificuldade para mastigar.
+
+Histórico: DM tipo 2 descompensado (HbA1c 9%). Tabagista (20 cigarros/dia há 40 anos).
+
+Exame Clínico: Gengiva retraída, sangramento à sondagem. PS ≥ 6 mm em múltiplos sítios. NIC ≥ 5 mm
+em 80% dos sítios. Perda óssea radiográfica avançada (além do 1/3 médio). Perda de 6 dentes por
+doença periodontal. Disfunção mastigatória (colapso de mordida).
+
+Diagnóstico: Periodontite Estágio IV, Grau C, Generalizada.
+
+Plano de Tratamento: IHO, controle rigoroso do DM e tabagismo. TPNC (RAR), cirurgias periodontais
+(se indicadas), reabilitação protética complexa. Reavaliação contínua.
+
+Prognóstico: Reservado, exige manejo multidisciplinar e adesão máxima do paciente.
+
+
+
+Apostila de Periodontia – 5.º Ano | Página 11
+
+9. Quiz de Verificação
+
+Q1. Quais são as duas principais divisões funcionais do periodonto?
+✔ Periodonto de Proteção (gengiva livre, inserida, interdental) e Periodonto de Sustentação (cemento,
+ligamento periodontal, osso alveolar).
+Q2. Qual a principal diferença entre gengivite e periodontite?
+✔ A presença de perda de inserção clínica (NIC) e perda óssea radiográfica na periodontite. A
+gengivite é uma inflamação restrita à gengiva, sem perda de suporte, e é reversível.
+Q3. Quais são os dois eixos da classificação de periodontite de 2018?
+✔ Estágio (gravidade e complexidade) e Grau (velocidade de progressão e fatores de risco).
+Q4. O que define o GRAU na classificação de periodontite de 2018?
+✔ O grau descreve a velocidade de progressão da doença e a resposta esperada ao tratamento.
+Baseia-se em: (a) evidência direta de progressão (perda óssea/NIC ao longo do tempo) ou (b) fatores de
+risco modificadores (tabagismo, DM). Grau A = lenta; B = moderada; C = rápida.
+Q5. Qual sonda é utilizada especificamente para detectar envolvimento de furca?
+✔ Sonda Nabers. Sua curvatura permite acesso ao espaço interradicular. Furcas são classificadas em:
+Classe I (< 3 mm de profundidade horizontal), Classe II (≥ 3 mm mas não passante) e Classe III
+(passante, tunnel).
+Q6. Um paciente com NIC = 6 mm, perda óssea radiográfica além do terço médio, mobilidade grau 2
+em 3 dentes, mas SEM perda dentária e SEM colapso de mordida. Qual o Estágio?
+✔ Estágio III. O Estágio IV exige disfunção mastigatória (colapso de mordida, migrações, perda de
+suporte em dentes pilares). Como não há disfunção aqui, mesmo com a gravidade, o diagnóstico é
+Estágio III.
+Q7. Qual o ângulo recomendado da cureta durante o movimento de raspagem?
+✔ 70° a 80° entre a face interna da lâmina e a superfície radicular. < 45° = raspagem ineficaz (desliza
+sem cortar). > 90° = trauma tecidual.
+Q8. Por que o tabagismo é um modificador de Grau C?
+✔ O tabaco compromete a resposta imune (reduz quimiotaxia de neutrófilos, altera a vascularização e
+retarda a cicatrização), acelera a destruição periodontal e diminui a resposta ao tratamento. Tabagistas ≥
+10 cigarros/dia classificam a doença como Grau C.
+Apostila de Periodontia – 5.º Ano | Página 12
+
+10. Glossário Essencial de Periodontia
+Biofilme (Placa Dental): Comunidade estruturada de micro-organismos aderida à superfície dental, envoltos em
+matriz extracelular. Principal fator etiológico da gengivite e periodontite.
+NIC — Nível de Inserção Clínica: Distância em mm da Junção Esmalte-Cemento (JEC) até o fundo da bolsa ou
+sulco. Medida de referência para quantificar a perda de suporte periodontal.
+PS — Profundidade de Sondagem: Distância em mm da margem gengival até o fundo da bolsa/sulco. Difere do
+NIC quando há recessão ou hiperplasia gengival.
+SS — Sangramento à Sondagem: Sangramento que ocorre até 30 segundos após a sondagem. Indica
+inflamação ativa. Ausência de SS é o melhor indicador de saúde gengival.
+Recessão Gengival: Deslocamento apical da margem gengival em relação à JEC, expondo a superfície radicular.
+Bolsa Periodontal: Aprofundamento patológico do sulco gengival (> 3 mm) com migração apical do epitélio
+juncional e perda de inserção.
+Furca: Região de divisão das raízes em dentes multirradiculares. Classe I: < 3 mm. Classe II: ≥ 3 mm, não
+passante. Classe III: passante ("túnel").
+Mobilidade Dental: Grau 1: movimento horizontal até 1 mm. Grau 2: movimento horizontal > 1 mm. Grau 3:
+movimento em todas as direções incluindo vertical (axial).
+RAR — Raspagem e Alisamento Radicular: Procedimento mecânico de remoção de cálculo e biofilme
+subgengival com alisamento da superfície radicular. Principal terapia da fase I (TPNC).
+TPNC — Terapia Periodontal Não Cirúrgica: Conjunto de procedimentos da fase I: IHO, controle de fatores de
+risco, RAR e reavaliação. Indicada para todos os estágios como primeira linha de tratamento.
+Estágio (I–IV): Eixo da classificação 2018 que descreve a gravidade e complexidade da periodontite baseado em
+NIC, perda óssea, perda dentária e fatores de complexidade.
+Grau (A–C): Eixo da classificação 2018 que descreve a velocidade de progressão e resposta esperada ao
+tratamento, modulado por fatores de risco (tabagismo, DM).
+JEC — Junção Esmalte-Cemento: Limite anatômico entre esmalte coronário e cemento radicular. Ponto de
+referência fixo para mensuração do NIC.
+Referências Bibliográficas
+1. Tonetti MS et al. J Periodontol. 2018;89(Suppl 1):S159–S172.
+2. Papapanou PN, Sanz M, Buduneli N, et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World
+Workshop on the Classification of Periodontal and Peri-Implant Diseases. J Periodontol. 2018;89(Suppl 1):S173–S182.
+3. Chapple ILC, Mealey BL, Van Dyke TE, et al. Periodontal health and gingival diseases and conditions on an intact
+and a reduced periodontium. J Periodontol. 2018;89(Suppl 1):S74–S84.
+4. Lang NP, Lindhe J (eds.). Clinical Periodontology and Implant Dentistry. 6th ed. Oxford: Wiley Blackwell; 2015.
+5. Carranza FA, Newman MG, Takei HH, Klokkevold PR. Carranza's Clinical Periodontology. 13th ed. Philadelphia:
+Elsevier; 2019.
+6. Lindhe J, Karring T, Lang NP. Tratado de Periodontologia Clínica e Implantologia Oral. 5ª ed. Rio de Janeiro:
+Guanabara Koogan; 2010.
+Apostila de Periodontia – 5.º Ano | Página 13
+
+
+Apostila de Periodontia – 5.º Ano | Página 14
+
+
+Apostila de Periodontia – 5.º Ano | Página 15
